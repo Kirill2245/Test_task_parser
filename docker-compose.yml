@@ -34,7 +34,7 @@ services:
     build: ./client
     container_name: client
     ports:
-      - "3000:3000"
+      - "3000:80"
     environment:
       NEXT_PUBLIC_API_URL: http://server:3001
     depends_on:
