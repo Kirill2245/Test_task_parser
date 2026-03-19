@@ -15,4 +15,9 @@ export class ImportCarsController {
   public async importAllCars(@Body() dtos: ImportCarDto[]) {
     return this.importCarsService.importAllCars(dtos);
   }
+
+  @Get('/all')
+  public async findAllCars(){
+    return this.importCarsService.findAllCars();
+  }
 }

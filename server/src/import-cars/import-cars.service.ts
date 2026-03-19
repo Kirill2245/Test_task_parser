@@ -93,4 +93,17 @@ export class ImportCarsService {
         
         return results;
     }
+
+    public async findAllCars(){
+      return await this.prismaService.car.findMany({
+         omit: {
+          make: true,
+          model: true,
+          warranty: true,
+          inspection: true,
+          shopName: true,
+          shopLocation: true,
+        }
+      })
+    }
 }
