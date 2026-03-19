@@ -1,4 +1,4 @@
-// components/auth/AuthLayout.tsx
+
 import React from 'react';
 import { SakuraDecoration } from '../ui/SakuraDecoration';
 

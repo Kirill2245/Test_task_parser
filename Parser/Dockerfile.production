@@ -1,0 +1,73 @@
+
+FROM node:20-slim AS builder
+
+WORKDIR /app
+
+
+COPY package*.json ./
+
+
+RUN npm ci
+
+
+COPY . .
+
+
+RUN npm run build
+
+
+FROM node:20-slim
+
+
+RUN apt-get update && apt-get install -y \
+    wget \
+    gnupg \
+    ca-certificates \
+    procps \
+    --no-install-recommends \
+    && rm -rf /var/lib/apt/lists/* \
+    && apt-get clean
+
+
+RUN wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | apt-key add - \
+    && echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google.list \
+    && apt-get update \
+    && apt-get install -y google-chrome-stable --no-install-recommends \
+    && rm -rf /var/lib/apt/lists/* \
+    && apt-get clean
+
+
+RUN groupadd -r pptruser && useradd -r -g pptruser -G audio,video pptruser \
+    && mkdir -p /home/pptruser/Downloads \
+    && chown -R pptruser:pptruser /home/pptruser
+
+WORKDIR /app
+
+
+COPY --from=builder --chown=pptruser:pptruser /app/dist ./dist
+COPY --from=builder --chown=pptruser:pptruser /app/node_modules ./node_modules
+COPY --from=builder --chown=pptruser:pptruser /app/package*.json ./
+
+
+RUN mkdir -p /app/html_pages /app/parsed_data /app/translated_data \
+    && chown -R pptruser:pptruser /app
+
+
+USER pptruser
+
+
+ENV PUPPETEER_EXECUTABLE_PATH=/usr/bin/google-chrome-stable
+ENV PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true
+
+
+ENV NODE_ENV=production
+ENV PARSER_INTERVAL_HOURS=1
+ENV RUN_ONCE=false
+ENV API_URL=http://server:3001
+
+
+HEALTHCHECK --interval=60s --timeout=10s --start-period=30s --retries=3 \
+  CMD node -e "process.exit(0)" || exit 1
+
+
+CMD ["node", "dist/index.js"]

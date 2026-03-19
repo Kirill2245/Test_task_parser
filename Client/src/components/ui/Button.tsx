@@ -1,4 +1,4 @@
-// components/ui/Button.tsx
+
 import React from 'react';
 
 interface ButtonProps extends React.ButtonHTMLAttributes<HTMLButtonElement> {
@@ -68,8 +68,7 @@ export const Button: React.FC<ButtonProps> = ({
       ) : (
         children
       )}
-      
-      {/* Ripple эффект */}
+      ы
       <span className="absolute inset-0 bg-white/20 transform scale-x-0 group-hover:scale-x-100 transition-transform origin-left" />
     </button>
   );

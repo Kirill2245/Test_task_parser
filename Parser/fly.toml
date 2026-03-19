@@ -1,0 +1,39 @@
+# parser/fly.toml
+app = "cars-parser"
+primary_region = "ams"
+
+[build]
+  dockerfile = "Dockerfile.production"
+
+[env]
+  NODE_ENV = "production"
+  PARSER_INTERVAL_HOURS = "6"
+  RUN_ONCE = "false"
+
+[processes]
+  app = "node dist/index.js"
+
+[metrics]
+  port = 9091
+  path = "/metrics"
+
+[[services]]
+  internal_port = 3000  # Минимальный порт, не используется
+  processes = ["app"]
+  
+  [services.concurrency]
+    type = "connections"
+    hard_limit = 5
+    soft_limit = 3
+
+  [[services.ports]]
+    port = 80
+    handlers = ["http"]
+    auto_stop_machines = false  # Парсер должен работать постоянно
+    auto_start_machines = true
+
+  [[services.tcp_checks]]
+    interval = 30000
+    timeout = 10000
+    grace_period = "30s"
+    restart_limit = 6
