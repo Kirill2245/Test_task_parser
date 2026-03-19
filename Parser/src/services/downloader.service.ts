@@ -80,7 +80,6 @@ export class DownloaderService {
     } catch (error) {
       Logger.error(`Ошибка загрузки: ${error}`);
       
-      // Пробуем сохранить частичный HTML
       try {
         const html = await page.content();
         if (html && html.length > config.parsing.minHtmlSize) {

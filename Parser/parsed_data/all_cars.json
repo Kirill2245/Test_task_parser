@@ -1,0 +1,3102 @@
+{
+  "totalCars": 90,
+  "parsedAt": "2026-03-19T12:51:22.301Z",
+  "cars": [
+    {
+      "id": "AU6870963054",
+      "make": "三菱",
+      "model": "パジェロミニ 660 VR 4WD AT/4WD/ターボ/キーレス/CDチューナー/バッ",
+      "year": 2011,
+      "totalPrice": {
+        "display": "78万円",
+        "raw": 780000
+      },
+      "basePrice": {
+        "display": "69万円",
+        "raw": 690000
+      },
+      "mileage": {
+        "display": "5.6万km",
+        "raw": 56000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "車検整備付",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "黒",
+      "colorCodes": "BK",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/013/805/UZ0052013805/UZ0052013805_001L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/013/805/UZ0052013805/SUZ0052013805_1_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/013/805/UZ0052013805/SUZ0052013805_2_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/013/805/UZ0052013805/SUZ0052013805_3_001.jpg"
+      ],
+      "shopName": "株式会社ホンダカーズ博多 行橋店",
+      "shopLocation": "福岡県 行橋市",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6870963054/index.html",
+      "page": "page_1_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.100Z"
+    },
+    {
+      "id": "AU6879492574",
+      "make": "三菱",
+      "model": "パジェロミニ 660 VR 4WD SDナビ バックカメラ ドラレコ ETC 電動格納ミラー フォグライト 禁煙 LEDヘッドライト ヘッドライトレベライザー エアコン Bluetooth キーレス フルセグTV プライバシーガラス",
+      "year": 2009,
+      "totalPrice": {
+        "display": "84万円",
+        "raw": 840000
+      },
+      "basePrice": {
+        "display": "76万円",
+        "raw": 760000
+      },
+      "mileage": {
+        "display": "4.1万km",
+        "raw": 41000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "2028(R10)年02月",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "黒銀",
+      "colorCodes": "BK,SI",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/059/650/UZ0052059650/UZ0052059650_001L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/059/650/UZ0052059650/SUZ0052059650_1_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/059/650/UZ0052059650/SUZ0052059650_2_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/059/650/UZ0052059650/SUZ0052059650_3_001.jpg"
+      ],
+      "shopName": "ネクステージ 東近江店",
+      "shopLocation": "滋賀県 東近江市",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6879492574/index.html",
+      "page": "page_1_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.106Z"
+    },
+    {
+      "id": "AU6883932944",
+      "make": "三菱",
+      "model": "パジェロミニ 660 VR 4WD ワンセグナビ・フォグランプ・ETC・4WD",
+      "year": 2009,
+      "totalPrice": {
+        "display": "65万円",
+        "raw": 650000
+      },
+      "basePrice": {
+        "display": "60万円",
+        "raw": 600000
+      },
+      "mileage": {
+        "display": "8.3万km",
+        "raw": 83000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "2028(R10)年02月",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "銀Ｍ",
+      "colorCodes": "SI",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/068/303/U00052068303/U00052068303_003L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/068/303/U00052068303/SU00052068303_1_002.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/068/303/U00052068303/SU00052068303_2_002.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/068/303/U00052068303/SU00052068303_3_002.jpg"
+      ],
+      "shopName": "大分三菱自動車販売株式会社 クリーンカー下郡バイパス",
+      "shopLocation": "大分県 大分市",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6883932944/index.html",
+      "page": "page_1_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.108Z"
+    },
+    {
+      "id": "AU6595425608",
+      "make": "三菱",
+      "model": "パジェロミニ 660 VR 4WD 4WD　ETC　キーレス合鍵　CD　背面タイヤ　パワステアリング　パワーウィンドウ　電動格納ミラー　純正アルミホイル",
+      "year": 2012,
+      "totalPrice": {
+        "display": "88万円",
+        "raw": 880000
+      },
+      "basePrice": {
+        "display": "78万円",
+        "raw": 780000
+      },
+      "mileage": {
+        "display": "7万km",
+        "raw": 70000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "車検整備付",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "銀II青",
+      "colorCodes": "BL,SI",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/476/030/U00050476030/U00050476030_001L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/476/030/U00050476030/SU00050476030_1_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/476/030/U00050476030/SU00050476030_2_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/476/030/U00050476030/SU00050476030_3_001.jpg"
+      ],
+      "shopName": "カーステーションブーブーハウス めちゃ安１号店",
+      "shopLocation": "京都府 京都市北区",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6595425608/index.html",
+      "page": "page_1_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.109Z"
+    },
+    {
+      "id": "AU6687151804",
+      "make": "三菱",
+      "model": "パジェロミニ 660 エクシード 4WD 1年保証走行距離無制限/切替式4WD/ナビ/ETC",
+      "year": 2012,
+      "totalPrice": {
+        "display": "89万円",
+        "raw": 890000
+      },
+      "basePrice": {
+        "display": "82万円",
+        "raw": 820000
+      },
+      "mileage": {
+        "display": "4.3万km",
+        "raw": 43000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "2027(R09)年08月",
+      "repairHistory": true,
+      "warranty": "保証付",
+      "color": "銀",
+      "colorCodes": "SI",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/064/233/U00051064233/U00051064233_001L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/064/233/U00051064233/SU00051064233_1_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/064/233/U00051064233/SU00051064233_2_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/064/233/U00051064233/SU00051064233_3_001.jpg"
+      ],
+      "shopName": "ホンダカーズ兵庫 三田中央店Ｈｏｎｄａ　Ｕ－Ｃａｒ",
+      "shopLocation": "兵庫県 三田市",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6687151804/index.html",
+      "page": "page_1_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.111Z"
+    },
+    {
+      "id": "AU6869806728",
+      "make": "三菱",
+      "model": "パジェロミニ 660 VR 4WD 4WD SDナビ 禁煙車 ドラレコ ETC",
+      "year": 2008,
+      "totalPrice": {
+        "display": "69万円",
+        "raw": 690000
+      },
+      "basePrice": {
+        "display": "61万円",
+        "raw": 610000
+      },
+      "mileage": {
+        "display": "4.5万km",
+        "raw": 45000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "2027(R09)年03月",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "黒",
+      "colorCodes": "BK",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/005/972/UZ0052005972/UZ0052005972_001L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/005/972/UZ0052005972/SUZ0052005972_1_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/005/972/UZ0052005972/SUZ0052005972_2_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/005/972/UZ0052005972/SUZ0052005972_3_001.jpg"
+      ],
+      "shopName": "ネクステージ 京都伏見店",
+      "shopLocation": "京都府 京都市伏見区",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6869806728/index.html",
+      "page": "page_1_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.112Z"
+    },
+    {
+      "id": "AU6817380076",
+      "make": "三菱",
+      "model": "パジェロミニ VR　ファイナルアニバーサリー 自社　ローン　対応　検2年　本州仕入れ　ナビ　TV　ETC　アルミホイール　スタッドレスタイヤ装着　トランスファー　クールシルバーメタリック　全道　対応",
+      "year": 2012,
+      "totalPrice": {
+        "display": "34万円",
+        "raw": 340000
+      },
+      "basePrice": {
+        "display": "27万円",
+        "raw": 270000
+      },
+      "mileage": {
+        "display": "12.3万km",
+        "raw": 123000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "車検整備付",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "深銀Ｍ",
+      "colorCodes": "SI",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/732/956/U00051732956/U00051732956_001L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/732/956/U00051732956/SU00051732956_1_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/732/956/U00051732956/SU00051732956_2_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/732/956/U00051732956/SU00051732956_3_001.jpg"
+      ],
+      "shopName": "オーシャンデザイン　北海道江別店",
+      "shopLocation": "北海道 江別市",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6817380076/index.html",
+      "page": "page_1_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.113Z"
+    },
+    {
+      "id": "AU6894124121",
+      "make": "三菱",
+      "model": "パジェロミニ 660 プレミアム セレクション 4WD 4WD ハーフ",
+      "year": 2011,
+      "totalPrice": {
+        "display": "39万円",
+        "raw": 390000
+      },
+      "basePrice": {
+        "display": "29万円",
+        "raw": 290000
+      },
+      "mileage": {
+        "display": "12.8万km",
+        "raw": 128000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "車検整備付",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "黒Ｍ",
+      "colorCodes": "BK",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/139/523/UZ0052139523/UZ0052139523_001L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/139/523/UZ0052139523/SUZ0052139523_1_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/139/523/UZ0052139523/SUZ0052139523_2_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/139/523/UZ0052139523/SUZ0052139523_3_001.jpg"
+      ],
+      "shopName": "ネクステージ 防府店",
+      "shopLocation": "山口県 防府市",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6894124121/index.html",
+      "page": "page_1_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.115Z"
+    },
+    {
+      "id": "AU6881960652",
+      "make": "三菱",
+      "model": "パジェロミニ 660 エクシード 4WD HDDナビ フルセグTV キーレス",
+      "year": 2009,
+      "totalPrice": {
+        "display": "39万円",
+        "raw": 390000
+      },
+      "basePrice": {
+        "display": "27万円",
+        "raw": 270000
+      },
+      "mileage": {
+        "display": "9.8万km",
+        "raw": 98000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "車検整備無",
+      "repairHistory": true,
+      "warranty": "保証付",
+      "color": "銀II",
+      "colorCodes": "SI",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/037/421/U00052037421/U00052037421_002L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/037/421/U00052037421/SU00052037421_1_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/037/421/U00052037421/SU00052037421_2_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/037/421/U00052037421/SU00052037421_3_001.jpg"
+      ],
+      "shopName": "ＣＡＲ　ＢＡＮＫ　ＲＩＧＨＴ",
+      "shopLocation": "神奈川県 相模原市中央区",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6881960652/index.html",
+      "page": "page_1_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.116Z"
+    },
+    {
+      "id": "AU6841119730",
+      "make": "三菱",
+      "model": "パジェロミニ 660 アクティブフィールド エディション 4WD ユーザー買取車/ターボ/タイミングベルト交換歴有/純正ナビ/CD/DVD/ETC車載器/フルフラット/キーレスエントリー/フロントフォグランプ/レベライザー/電動格納ミラー/ドアバイザー",
+      "year": 2008,
+      "totalPrice": {
+        "display": "24万円",
+        "raw": 240000
+      },
+      "basePrice": {
+        "display": "14万円",
+        "raw": 140000
+      },
+      "mileage": {
+        "display": "16.6万km",
+        "raw": 166000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "2027(R09)年01月",
+      "repairHistory": false,
+      "warranty": "保証無",
+      "color": "銀Ｍ",
+      "colorCodes": "SI",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/843/482/U00051843482/U00051843482_001L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/843/482/U00051843482/SU00051843482_1_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/843/482/U00051843482/SU00051843482_2_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/843/482/U00051843482/SU00051843482_3_001.jpg"
+      ],
+      "shopName": "Ｔａｕｒｏｓ　Ｊａｐａｎ　ＣＨＩＢＡ　タウロスジャパン",
+      "shopLocation": "千葉県 千葉市中央区",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6841119730/index.html",
+      "page": "page_1_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.117Z"
+    },
+    {
+      "id": "AU6807327321",
+      "make": "三菱",
+      "model": "パジェロミニ 660 XR キーレス　CDデッキ　エアコン　パワステ　Wエアバッグ　パワーウィンドウ　純正アルミ",
+      "year": 2004,
+      "totalPrice": {
+        "display": "29万円",
+        "raw": 290000
+      },
+      "basePrice": {
+        "display": "27万円",
+        "raw": 270000
+      },
+      "mileage": {
+        "display": "6.6万km",
+        "raw": 66000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "2027(R09)年01月",
+      "repairHistory": false,
+      "warranty": "保証無",
+      "color": "白",
+      "colorCodes": "WH",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/674/722/U00051674722/U00051674722_001L.JPG",
+      "additionalImages": [],
+      "shopName": "日出中央自動車",
+      "shopLocation": "大分県 速見郡",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6807327321/index.html",
+      "page": "page_1_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.118Z"
+    },
+    {
+      "id": "AU6857316387",
+      "make": "三菱",
+      "model": "パジェロミニ 660 X 4WD 4WD オートマ エアバッグ エアコン パワステ パワーウィンドウ 15インチ 背面タイヤ",
+      "year": 1998,
+      "totalPrice": {
+        "display": "22万円",
+        "raw": 220000
+      },
+      "basePrice": {
+        "display": "15万円",
+        "raw": 150000
+      },
+      "mileage": {
+        "display": "9.2万km",
+        "raw": 92000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "2027(R09)年10月",
+      "repairHistory": false,
+      "warranty": "保証無",
+      "color": "緑",
+      "colorCodes": "GR",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/913/685/U00051913685/U00051913685_001L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/913/685/U00051913685/SU00051913685_1_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/913/685/U00051913685/SU00051913685_2_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/913/685/U00051913685/SU00051913685_3_001.jpg"
+      ],
+      "shopName": "（株）アイルー 関店",
+      "shopLocation": "岐阜県 関市",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6857316387/index.html",
+      "page": "page_1_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.119Z"
+    },
+    {
+      "id": "AU6554589271",
+      "make": "三菱",
+      "model": "パジェロミニ XR-II",
+      "year": 1997,
+      "totalPrice": {
+        "display": "34万円",
+        "raw": 340000
+      },
+      "basePrice": {
+        "display": "26万円",
+        "raw": 260000
+      },
+      "mileage": {
+        "display": "12.1万km",
+        "raw": 121000
+      },
+      "transmission": "フロア3AT",
+      "engineSize": "660CC",
+      "inspection": "車検整備付",
+      "repairHistory": true,
+      "warranty": "保証無",
+      "color": "薄茶",
+      "colorCodes": "BR",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/118/241/U00050118241/U00050118241_001L.JPG",
+      "additionalImages": [],
+      "shopName": "長野総業",
+      "shopLocation": "愛媛県 四国中央市",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6554589271/index.html",
+      "page": "page_1_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.120Z"
+    },
+    {
+      "id": "AU6516778728",
+      "make": "三菱",
+      "model": "パジェロミニ 660 R ターボ/AT/AC /ETC/37000K/",
+      "year": 2003,
+      "totalPrice": {
+        "display": "39万円",
+        "raw": 390000
+      },
+      "basePrice": {
+        "display": "35万円",
+        "raw": 350000
+      },
+      "mileage": {
+        "display": "3.7万km",
+        "raw": 37000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "2026(R08)年07月",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "銀Ｍ",
+      "colorCodes": "SI",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/967/776/U00049967776/U00049967776_001L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/967/776/U00049967776/SU00049967776_1_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/967/776/U00049967776/SU00049967776_2_002.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/967/776/U00049967776/SU00049967776_3_002.jpg"
+      ],
+      "shopName": "アークオート",
+      "shopLocation": "埼玉県 吉川市",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6516778728/index.html",
+      "page": "page_1_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.121Z"
+    },
+    {
+      "id": "AU6617357639",
+      "make": "三菱",
+      "model": "パジェロミニ 660 アニバーサリー リミテッド 4WD ユーザー買取車/カロッツェリア製HDDナビ/キーレスエントリー/電動格納ミラー/CD/DVD/フロントフォグランプ/純正15インチAW/ドアバイザー",
+      "year": 2002,
+      "totalPrice": {
+        "display": "14万円",
+        "raw": 140000
+      },
+      "basePrice": {
+        "display": "4万円",
+        "raw": 40000
+      },
+      "mileage": {
+        "display": "14.8万km",
+        "raw": 148000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "車検整備付",
+      "repairHistory": false,
+      "warranty": "保証無",
+      "color": "銀灰II",
+      "colorCodes": "SI,GL",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/617/312/U00050617312/U00050617312_001L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/617/312/U00050617312/SU00050617312_1_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/617/312/U00050617312/SU00050617312_2_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/617/312/U00050617312/SU00050617312_3_001.jpg"
+      ],
+      "shopName": "Ｔａｕｒｏｓ　Ｊａｐａｎ　ＣＨＩＢＡ　タウロスジャパン",
+      "shopLocation": "千葉県 千葉市中央区",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6617357639/index.html",
+      "page": "page_1_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.123Z"
+    },
+    {
+      "id": "AU6259226998",
+      "make": "三菱",
+      "model": "パジェロミニ 660 VR 4WD 4速オートマ ターボ キーレス ETC",
+      "year": 2010,
+      "totalPrice": {
+        "display": "49万円",
+        "raw": 490000
+      },
+      "basePrice": {
+        "display": "36万円",
+        "raw": 360000
+      },
+      "mileage": {
+        "display": "7.5万km",
+        "raw": 75000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "車検整備無",
+      "repairHistory": true,
+      "warranty": "保証付",
+      "color": "銀",
+      "colorCodes": "SI",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/413/578/U00048413578/U00048413578_002L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/413/578/U00048413578/SU00048413578_1_005.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/413/578/U00048413578/SU00048413578_2_003.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/413/578/U00048413578/SU00048413578_3_003.jpg"
+      ],
+      "shopName": "ＣＡＲ　ＢＡＮＫ　ＲＩＧＨＴ　ベース仙台店",
+      "shopLocation": "宮城県 仙台市宮城野区",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6259226998/index.html",
+      "page": "page_1_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.124Z"
+    },
+    {
+      "id": "AU6658946208",
+      "make": "三菱",
+      "model": "パジェロミニ 660 VR 4WD パートタイム4WD　ターボ　純正AW",
+      "year": 2012,
+      "totalPrice": {
+        "display": "50万円",
+        "raw": 500000
+      },
+      "basePrice": {
+        "display": "45万円",
+        "raw": 450000
+      },
+      "mileage": {
+        "display": "8.8万km",
+        "raw": 88000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "2027(R09)年02月",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "赤真珠",
+      "colorCodes": "PL,RD",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/877/860/U00050877860/U00050877860_002L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/877/860/U00050877860/SU00050877860_1_002.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/877/860/U00050877860/SU00050877860_2_002.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/877/860/U00050877860/SU00050877860_3_002.jpg"
+      ],
+      "shopName": "（株）アイルー 瑞浪店",
+      "shopLocation": "岐阜県 瑞浪市",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6658946208/index.html",
+      "page": "page_1_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.125Z"
+    },
+    {
+      "id": "AU6717845067",
+      "make": "三菱",
+      "model": "パジェロミニ 660 VR 4WD ディスプレイオーディオ キーレス アルミホイール キーレス",
+      "year": 2006,
+      "totalPrice": {
+        "display": "39万円",
+        "raw": 390000
+      },
+      "basePrice": {
+        "display": "28万円",
+        "raw": 280000
+      },
+      "mileage": {
+        "display": "11.7万km",
+        "raw": 117000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "車検整備付",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "銀",
+      "colorCodes": "SI",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/249/715/U00051249715/U00051249715_003L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/249/715/U00051249715/SU00051249715_1_002.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/249/715/U00051249715/SU00051249715_2_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/249/715/U00051249715/SU00051249715_3_001.jpg"
+      ],
+      "shopName": "Ｄｏｏ　Ｃａｒｓ　Ｋ（ドゥーカーズＫ）高柳店",
+      "shopLocation": "福井県 福井市",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6717845067/index.html",
+      "page": "page_1_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.126Z"
+    },
+    {
+      "id": "VU8039168196",
+      "make": "三菱",
+      "model": "パジェロミニ XR　4WD エンジンスターター　シートヒーター",
+      "year": 2009,
+      "totalPrice": {
+        "display": "49万円",
+        "raw": 490000
+      },
+      "basePrice": {
+        "display": "39万円",
+        "raw": 390000
+      },
+      "mileage": {
+        "display": "6.6万km",
+        "raw": 66000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "車検整備付",
+      "repairHistory": true,
+      "warranty": "保証付",
+      "color": "黒",
+      "colorCodes": "BK",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/519/732/U00037519732/U00037519732_002L.JPG",
+      "additionalImages": [],
+      "shopName": "オートプロデュース　サクセス",
+      "shopLocation": "北海道 札幌市白石区",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/VU8039168196/index.html",
+      "page": "page_1_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.127Z"
+    },
+    {
+      "id": "AU6771304884",
+      "make": "三菱",
+      "model": "パジェロミニ 660 VR 4WD 4AT ターボ　パートタイム4WD",
+      "year": 2011,
+      "totalPrice": {
+        "display": "79万円",
+        "raw": 790000
+      },
+      "basePrice": {
+        "display": "73万円",
+        "raw": 730000
+      },
+      "mileage": {
+        "display": "3.3万km",
+        "raw": 33000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "車検整備付",
+      "repairHistory": true,
+      "warranty": "保証付",
+      "color": "黒Ｍ",
+      "colorCodes": "BK",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/471/264/U00051471264/U00051471264_001L.JPG",
+      "additionalImages": [],
+      "shopName": "（株）トヨナガ スズキアリーナトヨナガ富岡",
+      "shopLocation": "群馬県 富岡市",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6771304884/index.html",
+      "page": "page_1_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.128Z"
+    },
+    {
+      "id": "AU6632553900",
+      "make": "三菱",
+      "model": "パジェロミニ 660 ZR 4WD カロッツェリアナビ　ETC　3連アナログメーター",
+      "year": 2011,
+      "totalPrice": {
+        "display": "78万円",
+        "raw": 780000
+      },
+      "basePrice": {
+        "display": "71万円",
+        "raw": 710000
+      },
+      "mileage": {
+        "display": "4.9万km",
+        "raw": 49000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "車検整備付",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "白",
+      "colorCodes": "WH",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/715/675/U00050715675/U00050715675_001L.JPG",
+      "additionalImages": [],
+      "shopName": "軽自動車専門店　サトウモータース",
+      "shopLocation": "福島県 田村市",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6632553900/index.html",
+      "page": "page_1_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.129Z"
+    },
+    {
+      "id": "AU6841126010",
+      "make": "三菱",
+      "model": "パジェロミニ 660 ナビエディション VR 4WD ターボ　キーレス　ETC　電格ミラー",
+      "year": 2008,
+      "totalPrice": {
+        "display": "35万円",
+        "raw": 350000
+      },
+      "basePrice": {
+        "display": "30万円",
+        "raw": 300000
+      },
+      "mileage": {
+        "display": "12.6万km",
+        "raw": 126000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "2028(R10)年01月",
+      "repairHistory": false,
+      "warranty": "保証無",
+      "color": "紺銀",
+      "colorCodes": "NV,SI",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/843/955/U00051843955/U00051843955_001L.JPG",
+      "additionalImages": [],
+      "shopName": "スピリットモーター",
+      "shopLocation": "宮城県 岩沼市",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6841126010/index.html",
+      "page": "page_1_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.130Z"
+    },
+    {
+      "id": "AU6853304438",
+      "make": "三菱",
+      "model": "パジェロミニ 660 VR 4WD ターボ　4WD　AC 禁煙車",
+      "year": 2003,
+      "totalPrice": {
+        "display": "39万円",
+        "raw": 390000
+      },
+      "basePrice": {
+        "display": "34万円",
+        "raw": 340000
+      },
+      "mileage": {
+        "display": "8.6万km",
+        "raw": 86000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "車検整備付",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "銀",
+      "colorCodes": "SI",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/900/573/U00051900573/U00051900573_001L.JPG",
+      "additionalImages": [],
+      "shopName": "アークオート",
+      "shopLocation": "埼玉県 吉川市",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6853304438/index.html",
+      "page": "page_1_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.131Z"
+    },
+    {
+      "id": "AU6665652319",
+      "make": "三菱",
+      "model": "パジェロミニ 660 VR 4WD 切替式4WD　キーレス",
+      "year": 2012,
+      "totalPrice": {
+        "display": "47万円",
+        "raw": 470000
+      },
+      "basePrice": {
+        "display": "35万円",
+        "raw": 350000
+      },
+      "mileage": {
+        "display": "11.2万km",
+        "raw": 112000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "車検整備付",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "銀Ｍ",
+      "colorCodes": "SI",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/923/973/U00050923973/U00050923973_001L.JPG",
+      "additionalImages": [],
+      "shopName": "Ａｕｔｏ　ｃｌｕｂ　ＢＵＳＴＥＲ",
+      "shopLocation": "兵庫県 加古川市",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6665652319/index.html",
+      "page": "page_1_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.131Z"
+    },
+    {
+      "id": "AU6811900471",
+      "make": "三菱",
+      "model": "パジェロミニ 660 リンクスV 4WD ユーザー買取・エアコン・アンチロック・ブレーキシステム・4WD・パワーウィンドウ・パワーステアリング・フロントフォグランプ付き",
+      "year": 2001,
+      "totalPrice": {
+        "display": "23万円",
+        "raw": 230000
+      },
+      "basePrice": {
+        "display": "14万円",
+        "raw": 140000
+      },
+      "mileage": {
+        "display": "9.2万km",
+        "raw": 92000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "車検整備付",
+      "repairHistory": false,
+      "warranty": "保証無",
+      "color": "紺灰",
+      "colorCodes": "NV,GL",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/631/127/UZ0051631127/UZ0051631127_002L.JPG",
+      "additionalImages": [],
+      "shopName": "Ｔａｕｒｏｓ　Ｊａｐａｎ　ＹＯＫＯＨＡＭＡ　タウロスジャパン",
+      "shopLocation": "神奈川県 横浜市保土ヶ谷区",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6811900471/index.html",
+      "page": "page_1_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.132Z"
+    },
+    {
+      "id": "AU6674204390",
+      "make": "三菱",
+      "model": "パジェロミニ 660 VR 4WD ナビTV　切替式4WD　ターボ　背面タイヤ　リアスポイラー　キーレス　電動格納ミラー　純正AW",
+      "year": 2011,
+      "totalPrice": {
+        "display": "62万円",
+        "raw": 620000
+      },
+      "basePrice": {
+        "display": "55万円",
+        "raw": 550000
+      },
+      "mileage": {
+        "display": "7.9万km",
+        "raw": 79000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "2026(R08)年04月",
+      "repairHistory": true,
+      "warranty": "保証付",
+      "color": "銀黒",
+      "colorCodes": "BK,SI",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/975/836/U00050975836/U00050975836_001L.JPG",
+      "additionalImages": [],
+      "shopName": "オートＰＡＸ　川野辺自動車販売（株）　羽生１２２号バイパス店 ＪＵ適正販売店",
+      "shopLocation": "埼玉県 羽生市",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6674204390/index.html",
+      "page": "page_1_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.133Z"
+    },
+    {
+      "id": "AU6805628397",
+      "make": "三菱",
+      "model": "パジェロミニ 660 エクシード 4WD 本州仕入れ　寒冷地仕様　キーレス　純正デッキ　ETC　シートヒーター　パーキングセンサー",
+      "year": 2010,
+      "totalPrice": {
+        "display": "68万円",
+        "raw": 680000
+      },
+      "basePrice": {
+        "display": "63万円",
+        "raw": 630000
+      },
+      "mileage": {
+        "display": "5.3万km",
+        "raw": 53000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "車検整備付",
+      "repairHistory": true,
+      "warranty": "保証付",
+      "color": "銀II",
+      "colorCodes": "SI",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/647/462/U00051647462/U00051647462_001L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/647/462/U00051647462/SU00051647462_1_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/647/462/U00051647462/SU00051647462_2_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/647/462/U00051647462/SU00051647462_3_001.jpg"
+      ],
+      "shopName": "ジーエム自動車 本店",
+      "shopLocation": "北海道 札幌市東区",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6805628397/index.html",
+      "page": "page_1_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.134Z"
+    },
+    {
+      "id": "AU6893029743",
+      "make": "三菱",
+      "model": "パジェロミニ 660 リミテッド エディション VR 4WD メモリーナビ バックカメラ フルセグTV",
+      "year": 2006,
+      "totalPrice": {
+        "display": "40万円",
+        "raw": 400000
+      },
+      "basePrice": {
+        "display": "29万円",
+        "raw": 290000
+      },
+      "mileage": {
+        "display": "7.6万km",
+        "raw": 76000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "2027(R09)年01月",
+      "repairHistory": true,
+      "warranty": "保証付",
+      "color": "銀",
+      "colorCodes": "SI",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/037/654/U00052037654/U00052037654_002L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/037/654/U00052037654/SU00052037654_1_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/037/654/U00052037654/SU00052037654_2_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/037/654/U00052037654/SU00052037654_3_001.jpg"
+      ],
+      "shopName": "ＣＡＲ　ＢＡＮＫ　ＲＩＧＨＴ　八王子フィールド店",
+      "shopLocation": "東京都 八王子市",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6893029743/index.html",
+      "page": "page_1_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.136Z"
+    },
+    {
+      "id": "AU6511475704",
+      "make": "三菱",
+      "model": "パジェロミニ 660 XR",
+      "year": 2010,
+      "totalPrice": {
+        "display": "58万円",
+        "raw": 580000
+      },
+      "basePrice": {
+        "display": "54万円",
+        "raw": 540000
+      },
+      "mileage": {
+        "display": "5.6万km",
+        "raw": 56000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "2028(R10)年02月",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "真珠",
+      "colorCodes": "PL",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/868/230/U00049868230/U00049868230_001L.JPG",
+      "additionalImages": [],
+      "shopName": "有限会社マイカーランドマツヤマ",
+      "shopLocation": "熊本県 山鹿市",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6511475704/index.html",
+      "page": "page_1_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.137Z"
+    },
+    {
+      "id": "AU6862035019",
+      "make": "三菱",
+      "model": "パジェロミニ 660 エクシード 4WD /禁煙車/CDコンポ/AM・FM/AUX/エアコン/パワーステアリング/パワーウィンドウ/運転席エアバッグ/助手席エアバッグ/FOGランプ/15インチアルミホイール/電動格納ミラー/ABS/4WD/",
+      "year": 2011,
+      "totalPrice": {
+        "display": "60万円",
+        "raw": 600000
+      },
+      "basePrice": {
+        "display": "49万円",
+        "raw": 490000
+      },
+      "mileage": {
+        "display": "7.5万km",
+        "raw": 75000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "車検整備付",
+      "repairHistory": false,
+      "warranty": "保証無",
+      "color": "銀ＭII",
+      "colorCodes": "SI",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/951/987/UZ0051951987/UZ0051951987_001L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/951/987/UZ0051951987/SUZ0051951987_1_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/951/987/UZ0051951987/SUZ0051951987_2_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/951/987/UZ0051951987/SUZ0051951987_3_001.jpg"
+      ],
+      "shopName": "ＣＡＲ　ＰＬＡＴ 草加中央",
+      "shopLocation": "埼玉県 草加市",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6862035019/index.html",
+      "page": "page_1_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.138Z"
+    },
+    {
+      "id": "AU6869654585",
+      "make": "三菱",
+      "model": "パジェロミニ 660 エクシード 4WD キーレス　ABS　電格ミラー　ルーフレール",
+      "year": 2011,
+      "totalPrice": {
+        "display": "78万円",
+        "raw": 780000
+      },
+      "basePrice": {
+        "display": "68万円",
+        "raw": 680000
+      },
+      "mileage": {
+        "display": "4.1万km",
+        "raw": 41000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "車検整備付",
+      "repairHistory": true,
+      "warranty": "保証付",
+      "color": "銀II",
+      "colorCodes": "SI",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/005/277/U00052005277/U00052005277_001L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/005/277/U00052005277/SU00052005277_1_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/005/277/U00052005277/SU00052005277_2_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/005/277/U00052005277/SU00052005277_3_001.jpg"
+      ],
+      "shopName": "アップルワールド 丘珠空港通店",
+      "shopLocation": "北海道 札幌市東区",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6869654585/index.html",
+      "page": "page_2_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.199Z"
+    },
+    {
+      "id": "AU6897578320",
+      "make": "三菱",
+      "model": "パジェロミニ 660 ナビエディション VR 4WD HDDナビ ワンセグTV キーレス ETC",
+      "year": 2011,
+      "totalPrice": {
+        "display": "62万円",
+        "raw": 620000
+      },
+      "basePrice": {
+        "display": "49万円",
+        "raw": 490000
+      },
+      "mileage": {
+        "display": "8万km",
+        "raw": 80000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "車検整備無",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "真珠白",
+      "colorCodes": "WH,PL",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/134/050/U00052134050/U00052134050_002L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/134/050/U00052134050/SU00052134050_1_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/134/050/U00052134050/SU00052134050_2_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/134/050/U00052134050/SU00052134050_3_001.jpg"
+      ],
+      "shopName": "ＣＡＲ　ＢＡＮＫ　ＲＩＧＨＴ　春日部フィールド店",
+      "shopLocation": "埼玉県 春日部市",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6897578320/index.html",
+      "page": "page_2_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.200Z"
+    },
+    {
+      "id": "AU6897945505",
+      "make": "三菱",
+      "model": "パジェロミニ 660 リミテッド ユーザー下取り車　禁煙車　フロア4速AT　社外ナビ　エアコン　パワステ　パワーウィンドウ　Wエアバッグ　ABS　キーレスエントリー　電動格納ミラー　ドライブレコーダー　ETC付き　純正アルミ",
+      "year": 2009,
+      "totalPrice": {
+        "display": "39万円",
+        "raw": 390000
+      },
+      "basePrice": {
+        "display": "31万円",
+        "raw": 310000
+      },
+      "mileage": {
+        "display": "10.8万km",
+        "raw": 108000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "2026(R08)年12月",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "黒Ｍ",
+      "colorCodes": "BK",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/138/774/U00052138774/U00052138774_001L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/138/774/U00052138774/SU00052138774_1_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/138/774/U00052138774/SU00052138774_2_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/138/774/U00052138774/SU00052138774_3_001.jpg"
+      ],
+      "shopName": "軽自動車専門店　軽マーケット",
+      "shopLocation": "広島県 廿日市市",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6897945505/index.html",
+      "page": "page_2_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.201Z"
+    },
+    {
+      "id": "AU6897578459",
+      "make": "三菱",
+      "model": "パジェロミニ 660 アクティブフィールド エディション 4WD タイミングベルト交換済み メモリーナビ",
+      "year": 2007,
+      "totalPrice": {
+        "display": "42万円",
+        "raw": 420000
+      },
+      "basePrice": {
+        "display": "29万円",
+        "raw": 290000
+      },
+      "mileage": {
+        "display": "8.1万km",
+        "raw": 81000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "車検整備無",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "白II",
+      "colorCodes": "WH",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/134/199/U00052134199/U00052134199_002L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/134/199/U00052134199/SU00052134199_1_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/134/199/U00052134199/SU00052134199_2_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/134/199/U00052134199/SU00052134199_3_001.jpg"
+      ],
+      "shopName": "ＣＡＲ　ＢＡＮＫ　ＲＩＧＨＴ　春日部フィールド店",
+      "shopLocation": "埼玉県 春日部市",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6897578459/index.html",
+      "page": "page_2_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.202Z"
+    },
+    {
+      "id": "AU6838382374",
+      "make": "三菱",
+      "model": "パジェロミニ 660 アクティブフィールド エディション 4WD フルセグTV キーレス 電動格納ミラー",
+      "year": 2007,
+      "totalPrice": {
+        "display": "36万円",
+        "raw": 360000
+      },
+      "basePrice": {
+        "display": "24万円",
+        "raw": 240000
+      },
+      "mileage": {
+        "display": "8.3万km",
+        "raw": 83000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "車検整備無",
+      "repairHistory": true,
+      "warranty": "保証付",
+      "color": "黒",
+      "colorCodes": "BK",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/792/284/U00051792284/U00051792284_002L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/792/284/U00051792284/SU00051792284_1_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/792/284/U00051792284/SU00051792284_2_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/792/284/U00051792284/SU00051792284_3_001.jpg"
+      ],
+      "shopName": "ＣＡＲ　ＢＡＮＫ　ＲＩＧＨＴ　春日部フィールド店",
+      "shopLocation": "埼玉県 春日部市",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6838382374/index.html",
+      "page": "page_2_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.203Z"
+    },
+    {
+      "id": "AU6838207862",
+      "make": "三菱",
+      "model": "パジェロミニ 660 リミテッド エディション VR 4WD ナビ/Bカメラ/Bluetooth/CD",
+      "year": 2006,
+      "totalPrice": {
+        "display": "49万円",
+        "raw": 490000
+      },
+      "basePrice": {
+        "display": "39万円",
+        "raw": 390000
+      },
+      "mileage": {
+        "display": "7.2万km",
+        "raw": 72000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "車検整備付",
+      "repairHistory": false,
+      "warranty": "保証無",
+      "color": "銀ＭII",
+      "colorCodes": "SI",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/821/749/U00051821749/U00051821749_001L.JPG",
+      "additionalImages": [],
+      "shopName": "オート・アシスト／Ａｕｔｏ　Ａｓｓｉｓｔ",
+      "shopLocation": "埼玉県 さいたま市緑区",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6838207862/index.html",
+      "page": "page_2_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.204Z"
+    },
+    {
+      "id": "AU6374331218",
+      "make": "三菱",
+      "model": "パジェロミニ 660 VR スペシャルカラーエディション 4WD",
+      "year": 2004,
+      "totalPrice": {
+        "display": "58万円",
+        "raw": 580000
+      },
+      "basePrice": {
+        "display": "49万円",
+        "raw": 490000
+      },
+      "mileage": {
+        "display": "6.1万km",
+        "raw": 61000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "車検整備付",
+      "repairHistory": true,
+      "warranty": "保証付",
+      "color": "銀II",
+      "colorCodes": "SI",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/121/518/U00049121518/U00049121518_001L.JPG",
+      "additionalImages": [],
+      "shopName": "オートＰＡＸ　川野辺自動車販売（株）　羽生１２２号バイパス店 ＪＵ適正販売店",
+      "shopLocation": "埼玉県 羽生市",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6374331218/index.html",
+      "page": "page_2_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.205Z"
+    },
+    {
+      "id": "AU6429904159",
+      "make": "三菱",
+      "model": "パジェロミニ 660 VR 4WD キーレス 純正15インチアルミ",
+      "year": 2010,
+      "totalPrice": {
+        "display": "76万円",
+        "raw": 760000
+      },
+      "basePrice": {
+        "display": "63万円",
+        "raw": 630000
+      },
+      "mileage": {
+        "display": "4.3万km",
+        "raw": 43000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "車検整備無",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "真珠白",
+      "colorCodes": "WH,PL",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/437/926/U00049437926/U00049437926_002L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/437/926/U00049437926/SU00049437926_1_005.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/437/926/U00049437926/SU00049437926_2_003.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/437/926/U00049437926/SU00049437926_3_003.jpg"
+      ],
+      "shopName": "ＣＡＲ　ＢＡＮＫ　ＲＩＧＨＴ　高崎フィールド店",
+      "shopLocation": "群馬県 高崎市",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6429904159/index.html",
+      "page": "page_2_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.206Z"
+    },
+    {
+      "id": "AU6857789519",
+      "make": "三菱",
+      "model": "パジェロミニ 660 アニバーサリー リミテッド VR 4WD 4WD ターボ 社外オーディオ ETC 本革巻ステアリング キーレス ルーフレール 背面タイヤ 純正アルミ タイベル交換済み 群馬仕入",
+      "year": 2003,
+      "totalPrice": {
+        "display": "45万円",
+        "raw": 450000
+      },
+      "basePrice": {
+        "display": "39万円",
+        "raw": 390000
+      },
+      "mileage": {
+        "display": "10.5万km",
+        "raw": 105000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "車検整備付",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "銀II",
+      "colorCodes": "SI",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/933/302/U00051933302/U00051933302_001L.JPG",
+      "additionalImages": [],
+      "shopName": "買取マウス白根店",
+      "shopLocation": "新潟県 新潟市南区",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6857789519/index.html",
+      "page": "page_2_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.207Z"
+    },
+    {
+      "id": "AU6806970953",
+      "make": "三菱",
+      "model": "パジェロミニ 660 XR 取説有/スペアキー有/キーレス/電格ミラー/純正アルミ15インチ/運転席・助手席エアバック/ハロゲンライト",
+      "year": 2011,
+      "totalPrice": {
+        "display": "39万円",
+        "raw": 390000
+      },
+      "basePrice": {
+        "display": "33万円",
+        "raw": 330000
+      },
+      "mileage": {
+        "display": "9.5万km",
+        "raw": 95000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "車検整備付",
+      "repairHistory": true,
+      "warranty": "保証付",
+      "color": "真珠",
+      "colorCodes": "PL",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/673/551/U00051673551/U00051673551_001L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/673/551/U00051673551/SU00051673551_1_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/673/551/U00051673551/SU00051673551_2_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/673/551/U00051673551/SU00051673551_3_001.jpg"
+      ],
+      "shopName": "Ｃ－ＳＰＡＣＥ．",
+      "shopLocation": "大阪府 柏原市",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6806970953/index.html",
+      "page": "page_2_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.208Z"
+    },
+    {
+      "id": "AU6627639602",
+      "make": "三菱",
+      "model": "パジェロミニ 660 X 4WD 5速マニュアル 4WD 純正オーディオ フォグランプ 背面タイヤ 社外アルミ 群馬仕入",
+      "year": 1998,
+      "totalPrice": {
+        "display": "47万円",
+        "raw": 470000
+      },
+      "basePrice": {
+        "display": "42万円",
+        "raw": 420000
+      },
+      "mileage": {
+        "display": "11.8万km",
+        "raw": 118000
+      },
+      "transmission": "フロア5MT",
+      "engineSize": "660CC",
+      "inspection": "車検整備付",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "青II",
+      "colorCodes": "BL",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/686/629/U00050686629/U00050686629_001L.JPG",
+      "additionalImages": [],
+      "shopName": "買取マウス白根店",
+      "shopLocation": "新潟県 新潟市南区",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6627639602/index.html",
+      "page": "page_2_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.209Z"
+    },
+    {
+      "id": "AU6844134494",
+      "make": "三菱",
+      "model": "パジェロミニ 660 XR 自社　ローン　取扱い店　全国対応　自社審査　即日回答",
+      "year": 2011,
+      "totalPrice": {
+        "display": "48万円",
+        "raw": 480000
+      },
+      "basePrice": {
+        "display": "39万円",
+        "raw": 390000
+      },
+      "mileage": {
+        "display": "9.2万km",
+        "raw": 92000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "車検整備付",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "黒",
+      "colorCodes": "BK",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/863/176/U00051863176/U00051863176_001L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/863/176/U00051863176/SU00051863176_1_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/863/176/U00051863176/SU00051863176_2_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/863/176/U00051863176/SU00051863176_3_001.jpg"
+      ],
+      "shopName": "自社ローン取扱　カートルズ 相模原店",
+      "shopLocation": "神奈川県 相模原市中央区",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6844134494/index.html",
+      "page": "page_2_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.211Z"
+    },
+    {
+      "id": "AU6879493605",
+      "make": "三菱",
+      "model": "パジェロミニ 660 VR 4WD キーレス　CDデッキ エアコン パワステ パワーウィンドウ エアバッグ",
+      "year": 2006,
+      "totalPrice": {
+        "display": "45万円",
+        "raw": 450000
+      },
+      "basePrice": {
+        "display": "39万円",
+        "raw": 390000
+      },
+      "mileage": {
+        "display": "10.2万km",
+        "raw": 102000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "車検整備付",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "白",
+      "colorCodes": "WH",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/058/397/U00052058397/U00052058397_002L.JPG",
+      "additionalImages": [],
+      "shopName": "テン・ポイント",
+      "shopLocation": "大分県 大分市",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6879493605/index.html",
+      "page": "page_2_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.215Z"
+    },
+    {
+      "id": "AU6877419079",
+      "make": "三菱",
+      "model": "パジェロミニ 660 VR 4WD CDオーディオ　フロントフォグ　リモコンキー　電動格納ミラー　プライバシーガラス",
+      "year": 2007,
+      "totalPrice": {
+        "display": "54万円",
+        "raw": 540000
+      },
+      "basePrice": {
+        "display": "43万円",
+        "raw": 430000
+      },
+      "mileage": {
+        "display": "9.5万km",
+        "raw": 95000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "車検整備付",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "薄銀Ｍ",
+      "colorCodes": "SI",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/050/619/UZ0052050619/UZ0052050619_001L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/050/619/UZ0052050619/SUZ0052050619_1_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/050/619/UZ0052050619/SUZ0052050619_2_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/050/619/UZ0052050619/SUZ0052050619_3_001.jpg"
+      ],
+      "shopName": "ネクステージ 松本店",
+      "shopLocation": "長野県 松本市",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6877419079/index.html",
+      "page": "page_2_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.216Z"
+    },
+    {
+      "id": "AU6784688245",
+      "make": "三菱",
+      "model": "パジェロミニ 660 VR 4WD ターボ　アルミ　メッキ背面タイヤハードケース　フォグランプ　マッドガード　プライバシーガラス　ドアバイザー　フロアマット　ETC　キーレス　Wエアバッグ",
+      "year": 2004,
+      "totalPrice": {
+        "display": "68万円",
+        "raw": 680000
+      },
+      "basePrice": {
+        "display": "55万円",
+        "raw": 550000
+      },
+      "mileage": {
+        "display": "4.6万km",
+        "raw": 46000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "車検整備無",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "銀",
+      "colorCodes": "SI",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/553/393/U00051553393/U00051553393_001L.JPG",
+      "additionalImages": [],
+      "shopName": "ユーカーネット東海",
+      "shopLocation": "愛知県 名古屋市港区",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6784688245/index.html",
+      "page": "page_2_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.217Z"
+    },
+    {
+      "id": "AU6777357214",
+      "make": "三菱",
+      "model": "パジェロミニ 660 VR 4WD 4WD・ターボ・純正15インチアルミホイール・5速マニュアル・社外CDオーディオ・キーレス・電動格納式ミラー",
+      "year": 2007,
+      "totalPrice": {
+        "display": "46万円",
+        "raw": 460000
+      },
+      "basePrice": {
+        "display": "39万円",
+        "raw": 390000
+      },
+      "mileage": {
+        "display": "15.8万km",
+        "raw": 158000
+      },
+      "transmission": "フロア5MT",
+      "engineSize": "660CC",
+      "inspection": "2027(R09)年10月",
+      "repairHistory": true,
+      "warranty": "保証付",
+      "color": "黒",
+      "colorCodes": "BK",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/503/414/UJ0051503414/UJ0051503414_002L.JPG",
+      "additionalImages": [],
+      "shopName": "ＧＣ益城　オートメッセ",
+      "shopLocation": "熊本県 上益城郡",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6777357214/index.html",
+      "page": "page_2_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.218Z"
+    },
+    {
+      "id": "AU6606862559",
+      "make": "三菱",
+      "model": "パジェロミニ 660 アクティブフィールド エディション 4WD ETC　純正アルミホイール　ABS　キーレス　Wエアバック　Wエアバック　エアコン　パワステ",
+      "year": 2006,
+      "totalPrice": {
+        "display": "50万円",
+        "raw": 500000
+      },
+      "basePrice": {
+        "display": "40万円",
+        "raw": 400000
+      },
+      "mileage": {
+        "display": "9.6万km",
+        "raw": 96000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "車検整備付",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "銀",
+      "colorCodes": "SI",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/323/973/U00050323973/U00050323973_001L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/323/973/U00050323973/SU00050323973_1_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/323/973/U00050323973/SU00050323973_2_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/323/973/U00050323973/SU00050323973_3_001.jpg"
+      ],
+      "shopName": "（株）軽自動車館 せんだい店",
+      "shopLocation": "宮城県 仙台市泉区",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6606862559/index.html",
+      "page": "page_2_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.219Z"
+    },
+    {
+      "id": "AU6865945159",
+      "make": "三菱",
+      "model": "パジェロミニ 660 VR 4WD 最終型　4WD　タイミングベルト交換済　マニュアルターボ　レカロシート　中古スタッドレス付　ナビ　フルセグ　バックカメラ　2.0ETC　Bluetooth　キーレス　ドラレコ　純正シフトノブ有",
+      "year": 2012,
+      "totalPrice": {
+        "display": "70万円",
+        "raw": 700000
+      },
+      "basePrice": {
+        "display": "65万円",
+        "raw": 650000
+      },
+      "mileage": {
+        "display": "12.9万km",
+        "raw": 129000
+      },
+      "transmission": "フロア5MT",
+      "engineSize": "660CC",
+      "inspection": "2027(R09)年03月",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "黒",
+      "colorCodes": "BK",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/976/248/U00051976248/U00051976248_001L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/976/248/U00051976248/SU00051976248_1_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/976/248/U00051976248/SU00051976248_2_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/976/248/U00051976248/SU00051976248_3_001.jpg"
+      ],
+      "shopName": "オートコレクション 本店",
+      "shopLocation": "新潟県 新潟市西区",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6865945159/index.html",
+      "page": "page_2_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.220Z"
+    },
+    {
+      "id": "AU6881197752",
+      "make": "三菱",
+      "model": "パジェロミニ 660 XR 4WD ターボ パートタイム4WD ナビ  フォグ 15インチアルミ 背面タイヤハードカバー",
+      "year": 2004,
+      "totalPrice": {
+        "display": "25万円",
+        "raw": 250000
+      },
+      "basePrice": {
+        "display": "22万円",
+        "raw": 220000
+      },
+      "mileage": {
+        "display": "8.7万km",
+        "raw": 87000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "2027(R09)年07月",
+      "repairHistory": true,
+      "warranty": "保証無",
+      "color": "銀",
+      "colorCodes": "SI",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/038/875/U00052038875/U00052038875_001L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/038/875/U00052038875/SU00052038875_1_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/038/875/U00052038875/SU00052038875_2_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/038/875/U00052038875/SU00052038875_3_001.jpg"
+      ],
+      "shopName": "（株）アイルー 関店",
+      "shopLocation": "岐阜県 関市",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6881197752/index.html",
+      "page": "page_2_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.222Z"
+    },
+    {
+      "id": "AU6767384599",
+      "make": "三菱",
+      "model": "パジェロミニ 660 XR タイヤ4本新品付き",
+      "year": 2004,
+      "totalPrice": {
+        "display": "54万円",
+        "raw": 540000
+      },
+      "basePrice": {
+        "display": "45万円",
+        "raw": 450000
+      },
+      "mileage": {
+        "display": "6.8万km",
+        "raw": 68000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "車検整備付",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "銀Ｍ",
+      "colorCodes": "SI",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/452/341/U00051452341/U00051452341_001L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/452/341/U00051452341/SU00051452341_1_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/452/341/U00051452341/SU00051452341_2_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/452/341/U00051452341/SU00051452341_3_001.jpg"
+      ],
+      "shopName": "バックサイド",
+      "shopLocation": "千葉県 千葉市中央区",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6767384599/index.html",
+      "page": "page_2_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.223Z"
+    },
+    {
+      "id": "AU6869321516",
+      "make": "三菱",
+      "model": "パジェロミニ 660 リミテッド 修復歴無し",
+      "year": 2009,
+      "totalPrice": {
+        "display": "66万円",
+        "raw": 660000
+      },
+      "basePrice": {
+        "display": "63万円",
+        "raw": 630000
+      },
+      "mileage": {
+        "display": "6.5万km",
+        "raw": 65000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "2026(R08)年07月",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "黒Ｍ",
+      "colorCodes": "BK",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/998/650/UZ0051998650/UZ0051998650_001L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/998/650/UZ0051998650/SUZ0051998650_1_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/998/650/UZ0051998650/SUZ0051998650_2_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/998/650/UZ0051998650/SUZ0051998650_3_001.jpg"
+      ],
+      "shopName": "ガリバー 名岐バイパス一宮店",
+      "shopLocation": "愛知県 一宮市",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6869321516/index.html",
+      "page": "page_2_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.224Z"
+    },
+    {
+      "id": "AU6687321230",
+      "make": "三菱",
+      "model": "パジェロミニ 660 VR 4WD 5速MT 4WD切替式 純正15インチAW ETC",
+      "year": 2010,
+      "totalPrice": {
+        "display": "89万円",
+        "raw": 890000
+      },
+      "basePrice": {
+        "display": "79万円",
+        "raw": 790000
+      },
+      "mileage": {
+        "display": "8.4万km",
+        "raw": 84000
+      },
+      "transmission": "フロア5MT",
+      "engineSize": "660CC",
+      "inspection": "車検整備付",
+      "repairHistory": false,
+      "warranty": "保証無",
+      "color": "黒",
+      "colorCodes": "BK",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/065/439/U00051065439/U00051065439_001L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/065/439/U00051065439/SU00051065439_1_003.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/065/439/U00051065439/SU00051065439_2_003.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/065/439/U00051065439/SU00051065439_3_003.jpg"
+      ],
+      "shopName": "マシーン 本店",
+      "shopLocation": "神奈川県 伊勢原市",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6687321230/index.html",
+      "page": "page_2_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.225Z"
+    },
+    {
+      "id": "AU6468841913",
+      "make": "三菱",
+      "model": "パジェロミニ 660 スキッパー J 新品ジオランダーX-ATタイヤ/ホワイト塗装アルミホイール/平面タイヤ/メッキサイドミラー/Fバンパースムージング加工/フォグライト/メッキビレッドグリル/リアルーフスポイラー/ドアバイザー",
+      "year": 1998,
+      "totalPrice": {
+        "display": "49万円",
+        "raw": 490000
+      },
+      "basePrice": {
+        "display": "42万円",
+        "raw": 420000
+      },
+      "mileage": {
+        "display": "6万km",
+        "raw": 60000
+      },
+      "transmission": "フロア3AT",
+      "engineSize": "660CC",
+      "inspection": "2027(R09)年06月",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "青真珠",
+      "colorCodes": "PL,BL",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/749/036/UZ0049749036/UZ0049749036_001L.JPG",
+      "additionalImages": [],
+      "shopName": "ＰＵＧＺ",
+      "shopLocation": "愛知県 春日井市",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6468841913/index.html",
+      "page": "page_2_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.226Z"
+    },
+    {
+      "id": "AU6270790623",
+      "make": "三菱",
+      "model": "パジェロミニ 660 VR-S 4WD ターボ　社外ナビ　CD・DVD再生　キーレス　純正アルミホイール　ABS　Wエアバック　フル装備",
+      "year": 2005,
+      "totalPrice": {
+        "display": "53万円",
+        "raw": 530000
+      },
+      "basePrice": {
+        "display": "43万円",
+        "raw": 430000
+      },
+      "mileage": {
+        "display": "8.9万km",
+        "raw": 89000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "車検整備付",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "黒II",
+      "colorCodes": "BK",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/333/480/U00048333480/U00048333480_001L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/333/480/U00048333480/SU00048333480_1_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/333/480/U00048333480/SU00048333480_2_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/333/480/U00048333480/SU00048333480_3_001.jpg"
+      ],
+      "shopName": "（株）軽自動車館 釧路店",
+      "shopLocation": "北海道 釧路市",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6270790623/index.html",
+      "page": "page_2_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.227Z"
+    },
+    {
+      "id": "AU6791759647",
+      "make": "三菱",
+      "model": "パジェロミニ 660 XR 社外CDステレオ　キーレスエントリー　ETC　純正アルミ　背面タイヤ",
+      "year": 2011,
+      "totalPrice": {
+        "display": "46万円",
+        "raw": 460000
+      },
+      "basePrice": {
+        "display": "35万円",
+        "raw": 350000
+      },
+      "mileage": {
+        "display": "12.1万km",
+        "raw": 121000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "車検整備付",
+      "repairHistory": false,
+      "warranty": "保証無",
+      "color": "赤真珠",
+      "colorCodes": "PL,RD",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/551/661/U00051551661/U00051551661_002L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/551/661/U00051551661/SU00051551661_1_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/551/661/U00051551661/SU00051551661_2_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/551/661/U00051551661/SU00051551661_3_001.jpg"
+      ],
+      "shopName": "（株）オートガレージＫ",
+      "shopLocation": "岡山県 岡山市南区",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6791759647/index.html",
+      "page": "page_2_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.228Z"
+    },
+    {
+      "id": "AU6722701197",
+      "make": "三菱",
+      "model": "パジェロミニ 660 プレミアム セレクション 4WD ユーザー買取直販・ストラーダナビ・フルセグテレビ・バックカメラ・ETC・シートヒーター・パートタイム4WD・盗難防止システム・衝突安全ボディ・キーレスエントリー・寒冷地仕様・エアバックシステム",
+      "year": 2011,
+      "totalPrice": {
+        "display": "129万円",
+        "raw": 1290000
+      },
+      "basePrice": {
+        "display": "123万円",
+        "raw": 1230000
+      },
+      "mileage": {
+        "display": "1.9万km",
+        "raw": 19000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "車検整備付",
+      "repairHistory": false,
+      "warranty": "保証無",
+      "color": "黒真珠",
+      "colorCodes": "PL,BK",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/167/156/U00051167156/U00051167156_001L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/167/156/U00051167156/SU00051167156_1_004.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/167/156/U00051167156/SU00051167156_2_002.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/167/156/U00051167156/SU00051167156_3_002.jpg"
+      ],
+      "shopName": "（株）サンワイズ 札幌本店",
+      "shopLocation": "北海道 札幌市西区",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6722701197/index.html",
+      "page": "page_2_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.229Z"
+    },
+    {
+      "id": "AU6801487942",
+      "make": "三菱",
+      "model": "パジェロミニ 660 XR 社外ナビ　社外ワンセグテレビ　純正15インチアルミホイール　マニュアルエアコン　キーレス　パワーウィンドウ　パワーステアリング",
+      "year": 2010,
+      "totalPrice": {
+        "display": "49万円",
+        "raw": 490000
+      },
+      "basePrice": {
+        "display": "39万円",
+        "raw": 390000
+      },
+      "mileage": {
+        "display": "12.3万km",
+        "raw": 123000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "2027(R09)年04月",
+      "repairHistory": false,
+      "warranty": "保証無",
+      "color": "薄茶",
+      "colorCodes": "BR",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/637/957/U00051637957/U00051637957_001L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/637/957/U00051637957/SU00051637957_1_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/637/957/U00051637957/SU00051637957_2_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/637/957/U00051637957/SU00051637957_3_001.jpg"
+      ],
+      "shopName": "Ｔａｕｒｏｓ　Ｊａｐａｎ",
+      "shopLocation": "千葉県 柏市",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6801487942/index.html",
+      "page": "page_2_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.230Z"
+    },
+    {
+      "id": "AU6823745339",
+      "make": "三菱",
+      "model": "パジェロミニ 660 アクティブフィールド エディション 4WD 切替式4WD/禁煙車/純正ナビ/ワンセグ/SD/CD/DVD/運転席シートヒーター/革巻きステアリング/パワーウィンドウ/エンジンスターター/スペアキー/フォグランプ/純正AW夏タイヤ積込/ドアバイザー/純正フロアマット/取説",
+      "year": 2007,
+      "totalPrice": {
+        "display": "69万円",
+        "raw": 690000
+      },
+      "basePrice": {
+        "display": "66万円",
+        "raw": 660000
+      },
+      "mileage": {
+        "display": "6.5万km",
+        "raw": 65000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "2026(R08)年12月",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "黒Ｍ",
+      "colorCodes": "BK",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/767/411/UZ0051767411/UZ0051767411_001L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/767/411/UZ0051767411/SUZ0051767411_1_002.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/767/411/UZ0051767411/SUZ0051767411_2_002.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/767/411/UZ0051767411/SUZ0051767411_3_002.jpg"
+      ],
+      "shopName": "ガリバー 旭川永山店",
+      "shopLocation": "北海道 旭川市",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6823745339/index.html",
+      "page": "page_2_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.231Z"
+    },
+    {
+      "id": "AU6857642278",
+      "make": "三菱",
+      "model": "パジェロミニ 660 エクシード 4WD ターボ　ルーフレール　フォグランプ　背面タイヤハードケース　マッドガード　ストラーダHDDナビ　フルセグTV　CD　DVD再生可　前後ドライブレコーダー　ETC",
+      "year": 2012,
+      "totalPrice": {
+        "display": "99万円",
+        "raw": 990000
+      },
+      "basePrice": {
+        "display": "91万円",
+        "raw": 910000
+      },
+      "mileage": {
+        "display": "6.8万km",
+        "raw": 68000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "2027(R09)年07月",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "銀紺銀",
+      "colorCodes": "NV,SI",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/933/015/U00051933015/U00051933015_001L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/933/015/U00051933015/SU00051933015_1_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/933/015/U00051933015/SU00051933015_2_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/933/015/U00051933015/SU00051933015_3_001.jpg"
+      ],
+      "shopName": "ユーカーネット東海",
+      "shopLocation": "愛知県 名古屋市港区",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6857642278/index.html",
+      "page": "page_2_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.232Z"
+    },
+    {
+      "id": "AU6830045671",
+      "make": "三菱",
+      "model": "パジェロミニ 660 プレミアム セレクション ファイナル アニバーサリー 4WD 特別仕様車　4WDターボ　ブラウン革スエード調ファブリックコンビシート　シートヒーター　メッキグリル　LEDヘッドライト　シルバールーフレール　パイオニアサイバーHDDナビ　フルセグTV　禁煙車",
+      "year": 2012,
+      "totalPrice": {
+        "display": "184万円",
+        "raw": 1840000
+      },
+      "basePrice": {
+        "display": "176万円",
+        "raw": 1760000
+      },
+      "mileage": {
+        "display": "0.7万km",
+        "raw": 7000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "2028(R10)年02月",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "銀紺銀",
+      "colorCodes": "NV,SI",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/795/904/U00051795904/U00051795904_001L.JPG",
+      "additionalImages": [],
+      "shopName": "ユーカーネット東海",
+      "shopLocation": "愛知県 名古屋市港区",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6830045671/index.html",
+      "page": "page_2_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.233Z"
+    },
+    {
+      "id": "VU8953466228",
+      "make": "三菱",
+      "model": "パジェロミニ 660 プレミアム セレクション 4WD 車検令和9年5月　特別仕様車　4WDターボ　アルミ　フォグ　マッドガード　メッキドアミラー　プライバシーガラス　本革シート&スエードファブリック　CD　キーレス　フロアマット",
+      "year": 2011,
+      "totalPrice": {
+        "display": "108万円",
+        "raw": 1080000
+      },
+      "basePrice": {
+        "display": "99万円",
+        "raw": 990000
+      },
+      "mileage": {
+        "display": "6.2万km",
+        "raw": 62000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "2027(R09)年05月",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "真珠白",
+      "colorCodes": "WH,PL",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/965/350/U00038965350/U00038965350_001L.JPG",
+      "additionalImages": [],
+      "shopName": "ユーカーネット東海",
+      "shopLocation": "愛知県 名古屋市港区",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/VU8953466228/index.html",
+      "page": "page_3_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.270Z"
+    },
+    {
+      "id": "AU6499736124",
+      "make": "三菱",
+      "model": "パジェロミニ 660 エクシード 4WD 車検令和9年10月　ターボ　アルミ　ルーフレール　フォグランプ　背面タイヤハードケース　マッドガード　プライバシーガラス　ドアバイザー　フロアマット　ポータブルナビTV　本革巻ステアリング　CD　ETC",
+      "year": 2010,
+      "totalPrice": {
+        "display": "94万円",
+        "raw": 940000
+      },
+      "basePrice": {
+        "display": "86万円",
+        "raw": 860000
+      },
+      "mileage": {
+        "display": "5.6万km",
+        "raw": 56000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "2027(R09)年10月",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "銀赤紫",
+      "colorCodes": "RD,SI,PU",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/883/581/U00049883581/U00049883581_001L.JPG",
+      "additionalImages": [],
+      "shopName": "ユーカーネット東海",
+      "shopLocation": "愛知県 名古屋市港区",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6499736124/index.html",
+      "page": "page_3_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.271Z"
+    },
+    {
+      "id": "VU7071862326",
+      "make": "三菱",
+      "model": "パジェロミニ 660 VR 4WD ターボ　ワンオーナー　HDDナビ　TV　CD　DVD再生可　ETC　キーレス",
+      "year": 2010,
+      "totalPrice": {
+        "display": "96万円",
+        "raw": 960000
+      },
+      "basePrice": {
+        "display": "88万円",
+        "raw": 880000
+      },
+      "mileage": {
+        "display": "1.7万km",
+        "raw": 17000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "2027(R09)年11月",
+      "repairHistory": true,
+      "warranty": "保証付",
+      "color": "真珠白",
+      "colorCodes": "WH,PL",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/191/399/U00036191399/U00036191399_003L.JPG",
+      "additionalImages": [],
+      "shopName": "ユーカーネット東海",
+      "shopLocation": "愛知県 名古屋市港区",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/VU7071862326/index.html",
+      "page": "page_3_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.271Z"
+    },
+    {
+      "id": "AU5861050223",
+      "make": "三菱",
+      "model": "パジェロミニ 660 VR 4WD 車検令和9年6月　4WDターボ　アルミ　プライバシーガラス　外ナビ　TV　ETC　キーレス　Wエアバッグ　ABS",
+      "year": 2010,
+      "totalPrice": {
+        "display": "108万円",
+        "raw": 1080000
+      },
+      "basePrice": {
+        "display": "99万円",
+        "raw": 990000
+      },
+      "mileage": {
+        "display": "2.4万km",
+        "raw": 24000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "2027(R09)年06月",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "銀紺II",
+      "colorCodes": "NV,SI",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/965/861/U00045965861/U00045965861_001L.JPG",
+      "additionalImages": [],
+      "shopName": "ユーカーネット東海",
+      "shopLocation": "愛知県 名古屋市港区",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU5861050223/index.html",
+      "page": "page_3_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.272Z"
+    },
+    {
+      "id": "AU6836710086",
+      "make": "三菱",
+      "model": "パジェロミニ 660 VR 4WD ターボ ブレラOGカスタム 新品マッドテレーンタイヤ&マットブラック塗装済AW 新品ルーフラック&新品ベースキャリア MITSUBISHIエンブレム テールランプブラックアウト シートヒーター 電動格納ミラー キーレス",
+      "year": 2009,
+      "totalPrice": {
+        "display": "129万円",
+        "raw": 1290000
+      },
+      "basePrice": {
+        "display": "116万円",
+        "raw": 1160000
+      },
+      "mileage": {
+        "display": "5.5万km",
+        "raw": 55000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "車検整備付",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "緑黒II",
+      "colorCodes": "GR,BK",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/823/581/U00051823581/U00051823581_001L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/823/581/U00051823581/SU00051823581_1_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/823/581/U00051823581/SU00051823581_2_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/823/581/U00051823581/SU00051823581_3_001.jpg"
+      ],
+      "shopName": "ＢＲＥＲＡ",
+      "shopLocation": "神奈川県 横浜市旭区",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6836710086/index.html",
+      "page": "page_3_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.273Z"
+    },
+    {
+      "id": "AU6878012233",
+      "make": "三菱",
+      "model": "パジェロミニ 660 VR 4WD ターボ　BRERAオリジナルカスタム　新品マッドテレーンタイヤ&マットブラック塗装済AW　背面タイヤ付　新品ルーフラック&新品ベースキャリア　MITSUBISHIエンブレム　マットブラック塗分",
+      "year": 2009,
+      "totalPrice": {
+        "display": "138万円",
+        "raw": 1380000
+      },
+      "basePrice": {
+        "display": "125万円",
+        "raw": 1250000
+      },
+      "mileage": {
+        "display": "3.7万km",
+        "raw": 37000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "車検整備付",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "青黒II",
+      "colorCodes": "BL,BK",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/053/558/U00052053558/U00052053558_001L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/053/558/U00052053558/SU00052053558_1_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/053/558/U00052053558/SU00052053558_2_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/053/558/U00052053558/SU00052053558_3_001.jpg"
+      ],
+      "shopName": "ＢＲＥＲＡ",
+      "shopLocation": "神奈川県 横浜市旭区",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6878012233/index.html",
+      "page": "page_3_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.274Z"
+    },
+    {
+      "id": "AU6889382481",
+      "make": "三菱",
+      "model": "パジェロミニ 660 VR 4WD ターボ ブレラOGカスタム 新品マッドテレーンタイヤ&マットブラック塗装済AW 新品ルーフラック&新品ベースキャリア　MITSUBISHIボンネットエンブレム テールランプブラックアウト マットブラック塗分",
+      "year": 2009,
+      "totalPrice": {
+        "display": "138万円",
+        "raw": 1380000
+      },
+      "basePrice": {
+        "display": "125万円",
+        "raw": 1250000
+      },
+      "mileage": {
+        "display": "2.1万km",
+        "raw": 21000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "車検整備付",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "灰黒II",
+      "colorCodes": "BK,GL",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/115/463/U00052115463/U00052115463_001L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/115/463/U00052115463/SU00052115463_1_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/115/463/U00052115463/SU00052115463_2_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/115/463/U00052115463/SU00052115463_3_001.jpg"
+      ],
+      "shopName": "ＢＲＥＲＡ",
+      "shopLocation": "神奈川県 横浜市旭区",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6889382481/index.html",
+      "page": "page_3_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.276Z"
+    },
+    {
+      "id": "AU6854614943",
+      "make": "三菱",
+      "model": "パジェロミニ 660 エクシード 4WD フロントスキッドプレートアンダーバー　メッキグリル　ウインカーメッキミラーカバー　フォグランプ　ルーフレール　キーレスキー",
+      "year": 2008,
+      "totalPrice": {
+        "display": "98万円",
+        "raw": 980000
+      },
+      "basePrice": {
+        "display": "89万円",
+        "raw": 890000
+      },
+      "mileage": {
+        "display": "3.4万km",
+        "raw": 34000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "2027(R09)年12月",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "銀黒銀",
+      "colorCodes": "BK,SI",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/856/218/U00051856218/U00051856218_001L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/856/218/U00051856218/SU00051856218_1_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/856/218/U00051856218/SU00051856218_2_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/856/218/U00051856218/SU00051856218_3_001.jpg"
+      ],
+      "shopName": "兵庫三菱自動車販売（株） ＵＣＡＲジェームス山",
+      "shopLocation": "兵庫県 神戸市垂水区",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6854614943/index.html",
+      "page": "page_3_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.277Z"
+    },
+    {
+      "id": "AU6565466374",
+      "make": "三菱",
+      "model": "パジェロミニ 660 エクシード 4WD ワンオーナー車　4WD　シートヒーター　電動格納ミラー　純正アルミホイール　キーレス",
+      "year": 2008,
+      "totalPrice": {
+        "display": "110万円",
+        "raw": 1100000
+      },
+      "basePrice": {
+        "display": "100万円",
+        "raw": 1000000
+      },
+      "mileage": {
+        "display": "4万km",
+        "raw": 40000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "車検整備付",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "紺II銀",
+      "colorCodes": "NV,SI",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/279/226/U00050279226/U00050279226_001L.JPG",
+      "additionalImages": [],
+      "shopName": "（有）ジャガーオートサービス",
+      "shopLocation": "大阪府 大阪市旭区",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6565466374/index.html",
+      "page": "page_3_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.278Z"
+    },
+    {
+      "id": "AU6758336839",
+      "make": "三菱",
+      "model": "パジェロミニ 660 アクティブフィールド エディション 4WD ターボ　ブレラOGカスタム　新品マッドテレーンタイヤ&マットブラック塗装済アルミホイール　新品ルーフラック&新品ベースキャリア　テールランプブラックアウト　マットブラック塗分　背面タイヤ",
+      "year": 2005,
+      "totalPrice": {
+        "display": "99万円",
+        "raw": 990000
+      },
+      "basePrice": {
+        "display": "86万円",
+        "raw": 860000
+      },
+      "mileage": {
+        "display": "6.7万km",
+        "raw": 67000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "車検整備付",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "緑黒II",
+      "colorCodes": "GR,BK",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/400/373/U00051400373/U00051400373_001L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/400/373/U00051400373/SU00051400373_1_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/400/373/U00051400373/SU00051400373_2_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/400/373/U00051400373/SU00051400373_3_001.jpg"
+      ],
+      "shopName": "ＢＲＥＲＡ",
+      "shopLocation": "神奈川県 横浜市旭区",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6758336839/index.html",
+      "page": "page_3_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.279Z"
+    },
+    {
+      "id": "AU6538161102",
+      "make": "三菱",
+      "model": "パジェロミニ 660 VR スペシャルカラーエディション 4WD 純正オーディオ　運転席シートヒーター　ドラレコ　4WD　社外AW　ルーフレール　車検整備2年付き",
+      "year": 2004,
+      "totalPrice": {
+        "display": "82万円",
+        "raw": 820000
+      },
+      "basePrice": {
+        "display": "69万円",
+        "raw": 690000
+      },
+      "mileage": {
+        "display": "5.9万km",
+        "raw": 59000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "車検整備付",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "灰II",
+      "colorCodes": "GL",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/081/942/U00050081942/U00050081942_001L.JPG",
+      "additionalImages": [],
+      "shopName": "（有）ワン・プライス",
+      "shopLocation": "山形県 米沢市",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6538161102/index.html",
+      "page": "page_3_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.279Z"
+    },
+    {
+      "id": "AU6854778446",
+      "make": "三菱",
+      "model": "パジェロミニ 660 VR 4WD ターボ ブレラOGカスタム 新品マッドテレーンタイヤ&マットブラック塗装済AW 新品ルーフラック&新品ベースキャリア MITSUBISHIエンブレム テールランプブラックアウト マットブラック塗分",
+      "year": 2004,
+      "totalPrice": {
+        "display": "99万円",
+        "raw": 990000
+      },
+      "basePrice": {
+        "display": "86万円",
+        "raw": 860000
+      },
+      "mileage": {
+        "display": "3.6万km",
+        "raw": 36000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "車検整備付",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "白黒II",
+      "colorCodes": "WH,BK",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/912/628/U00051912628/U00051912628_001L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/912/628/U00051912628/SU00051912628_1_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/912/628/U00051912628/SU00051912628_2_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/912/628/U00051912628/SU00051912628_3_001.jpg"
+      ],
+      "shopName": "ＢＲＥＲＡ",
+      "shopLocation": "神奈川県 横浜市旭区",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6854778446/index.html",
+      "page": "page_3_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.283Z"
+    },
+    {
+      "id": "AU6615890479",
+      "make": "三菱",
+      "model": "パジェロミニ 660 VR 4WD 5速マニュアル 4WD 社外オーディオ ETC 電格ミラー キーレス フォグ 背面タイヤ 純正アルミ 群馬仕入",
+      "year": 2003,
+      "totalPrice": {
+        "display": "45万円",
+        "raw": 450000
+      },
+      "basePrice": {
+        "display": "41万円",
+        "raw": 410000
+      },
+      "mileage": {
+        "display": "9.9万km",
+        "raw": 99000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "2026(R08)年10月",
+      "repairHistory": true,
+      "warranty": "保証付",
+      "color": "青II",
+      "colorCodes": "BL",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/608/588/U00050608588/U00050608588_002L.JPG",
+      "additionalImages": [],
+      "shopName": "買取マウス白根店",
+      "shopLocation": "新潟県 新潟市南区",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6615890479/index.html",
+      "page": "page_3_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.284Z"
+    },
+    {
+      "id": "AU6818703630",
+      "make": "三菱",
+      "model": "パジェロミニ 660 リンクスZ ブレラOGカスタム 新品マッドテレーンタイヤ&マットブラック塗装済AW 新品ルーフラック&新品ベースキャリア テールランプブラックアウト マットブラック塗分 ETC HUDライト キーレス",
+      "year": 2003,
+      "totalPrice": {
+        "display": "104万円",
+        "raw": 1040000
+      },
+      "basePrice": {
+        "display": "91万円",
+        "raw": 910000
+      },
+      "mileage": {
+        "display": "7万km",
+        "raw": 70000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "車検整備付",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "黒II",
+      "colorCodes": "BK",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/740/681/U00051740681/U00051740681_001L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/740/681/U00051740681/SU00051740681_1_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/740/681/U00051740681/SU00051740681_2_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/740/681/U00051740681/SU00051740681_3_001.jpg"
+      ],
+      "shopName": "ＢＲＥＲＡ",
+      "shopLocation": "神奈川県 横浜市旭区",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6818703630/index.html",
+      "page": "page_3_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.285Z"
+    },
+    {
+      "id": "AU6778108809",
+      "make": "三菱",
+      "model": "パジェロミニ 660 VR 4WD ターボ　BRERAオリジナルカスタム　新品マッドテレーンタイヤ　マットブラック塗装済アルミホイール　新品ルーフラック&新品ベースキャリア　テールランプブラックアウト　マットブラック塗分　背面タイヤカバー",
+      "year": 2002,
+      "totalPrice": {
+        "display": "108万円",
+        "raw": 1080000
+      },
+      "basePrice": {
+        "display": "95万円",
+        "raw": 950000
+      },
+      "mileage": {
+        "display": "6.9万km",
+        "raw": 69000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "車検整備付",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "茶黒II",
+      "colorCodes": "BK,BR",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/505/820/U00051505820/U00051505820_001L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/505/820/U00051505820/SU00051505820_1_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/505/820/U00051505820/SU00051505820_2_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/505/820/U00051505820/SU00051505820_3_001.jpg"
+      ],
+      "shopName": "ＢＲＥＲＡ",
+      "shopLocation": "神奈川県 横浜市旭区",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6778108809/index.html",
+      "page": "page_3_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.286Z"
+    },
+    {
+      "id": "AU6782320996",
+      "make": "三菱",
+      "model": "パジェロミニ 660 スキッパー J 全塗装　リフトアップ　社外オーディオ　ETC",
+      "year": 1998,
+      "totalPrice": {
+        "display": "69万円",
+        "raw": 690000
+      },
+      "basePrice": {
+        "display": "64万円",
+        "raw": 640000
+      },
+      "mileage": {
+        "display": "3.4万km",
+        "raw": 34000
+      },
+      "transmission": "フロア3AT",
+      "engineSize": "660CC",
+      "inspection": "2028(R10)年01月",
+      "repairHistory": false,
+      "warranty": "保証無",
+      "color": "灰黒",
+      "colorCodes": "BK,GL",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/538/869/U00051538869/U00051538869_001L.JPG",
+      "additionalImages": [],
+      "shopName": "ＦＳＢ　ＡＵＴＯ",
+      "shopLocation": "神奈川県 横須賀市",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6782320996/index.html",
+      "page": "page_3_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.287Z"
+    },
+    {
+      "id": "AU6836570442",
+      "make": "三菱",
+      "model": "パジェロミニ 660 アクティブフィールド エディション 4WD ターボ ブレラOGカスタム 新品マッドテレーンタイヤ&マットブラック塗装済AW 新品ルーフラック&新品ベースキャリア MITSUBISHIエンブレム テールランプブラックアウト マットブラック塗分 社外ナビTV ETC",
+      "year": 2005,
+      "totalPrice": {
+        "display": "109万円",
+        "raw": 1090000
+      },
+      "basePrice": {
+        "display": "96万円",
+        "raw": 960000
+      },
+      "mileage": {
+        "display": "5.4万km",
+        "raw": 54000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "車検整備付",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "薄茶黒",
+      "colorCodes": "BK,BR",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/822/605/U00051822605/U00051822605_001L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/822/605/U00051822605/SU00051822605_1_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/822/605/U00051822605/SU00051822605_2_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/822/605/U00051822605/SU00051822605_3_001.jpg"
+      ],
+      "shopName": "ＢＲＥＲＡ",
+      "shopLocation": "神奈川県 横浜市旭区",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6836570442/index.html",
+      "page": "page_3_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.288Z"
+    },
+    {
+      "id": "AU6752927941",
+      "make": "三菱",
+      "model": "パジェロミニ 660 VR 4WD ターボ　5速MT　電動格納ミラー　ライトレベライザー",
+      "year": 2008,
+      "totalPrice": {
+        "display": "48万円",
+        "raw": 480000
+      },
+      "basePrice": {
+        "display": "42万円",
+        "raw": 420000
+      },
+      "mileage": {
+        "display": "10.1万km",
+        "raw": 101000
+      },
+      "transmission": "フロア5MT",
+      "engineSize": "660CC",
+      "inspection": "2026(R08)年06月",
+      "repairHistory": false,
+      "warranty": "保証無",
+      "color": "銀",
+      "colorCodes": "SI",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/366/576/U00051366576/U00051366576_001L.JPG",
+      "additionalImages": [],
+      "shopName": "ｈｏｐ",
+      "shopLocation": "鳥取県 西伯郡",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6752927941/index.html",
+      "page": "page_3_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.289Z"
+    },
+    {
+      "id": "AU6655337606",
+      "make": "三菱",
+      "model": "パジェロミニ 660 エクシード 4WD CD ETC　ルーフレール　バイザー",
+      "year": 2012,
+      "totalPrice": {
+        "display": "130万円",
+        "raw": 1300000
+      },
+      "basePrice": {
+        "display": "123万円",
+        "raw": 1230000
+      },
+      "mileage": {
+        "display": "2.8万km",
+        "raw": 28000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "2027(R09)年04月",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "銀紺銀",
+      "colorCodes": "NV,SI",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/858/514/U00050858514/U00050858514_001L.JPG",
+      "additionalImages": [],
+      "shopName": "石川中央三菱自動車販売（株）ＵＣＡＲ　金沢北",
+      "shopLocation": "石川県 金沢市",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6655337606/index.html",
+      "page": "page_3_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.290Z"
+    },
+    {
+      "id": "AU6811579576",
+      "make": "三菱",
+      "model": "パジェロミニ 660 VR 4WD メモリーナビ　地デジテレビ　Bluetooth　CD　DVD　4WD　ターボエンジン　フォグランプ　キーレス　純正アルミホイール　ドアバイザー　電動格納ミラー　ABS　エアバッグ",
+      "year": 2009,
+      "totalPrice": {
+        "display": "69万円",
+        "raw": 690000
+      },
+      "basePrice": {
+        "display": "65万円",
+        "raw": 650000
+      },
+      "mileage": {
+        "display": "7万km",
+        "raw": 70000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "2026(R08)年08月",
+      "repairHistory": false,
+      "warranty": "保証無",
+      "color": "銀黒銀",
+      "colorCodes": "BK,SI",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/703/191/U00051703191/U00051703191_002L.JPG",
+      "additionalImages": [],
+      "shopName": "ＣＡＲＩＮＤ　カーインド",
+      "shopLocation": "埼玉県 春日部市",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6811579576/index.html",
+      "page": "page_3_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.291Z"
+    },
+    {
+      "id": "AU6857632735",
+      "make": "三菱",
+      "model": "パジェロミニ 660 エクシード 4WD ナビ　フルセグ　Bカメラ　ドライブレコーダー　ETC",
+      "year": 2009,
+      "totalPrice": {
+        "display": "83万円",
+        "raw": 830000
+      },
+      "basePrice": {
+        "display": "79万円",
+        "raw": 790000
+      },
+      "mileage": {
+        "display": "9.3万km",
+        "raw": 93000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "2026(R08)年06月",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "紺銀",
+      "colorCodes": "NV,SI",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/927/488/U00051927488/U00051927488_001L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/927/488/U00051927488/SU00051927488_1_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/927/488/U00051927488/SU00051927488_2_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/927/488/U00051927488/SU00051927488_3_001.jpg"
+      ],
+      "shopName": "広島三菱自動車販売 クリーンカー観音",
+      "shopLocation": "広島県 広島市西区",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6857632735/index.html",
+      "page": "page_3_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.292Z"
+    },
+    {
+      "id": "AU6088964902",
+      "make": "三菱",
+      "model": "パジェロミニ 660 アクティブフィールド エディション 4WD ケンウッドナビゲーションシステム　ドライブレコーダー　フルセグTV　ETC　切替4WD　純正アルミ　パワーステアリング　キーレス　エアコン　パワーウィンドウ　取扱説明書　記録簿",
+      "year": 2008,
+      "totalPrice": {
+        "display": "98万円",
+        "raw": 980000
+      },
+      "basePrice": {
+        "display": "88万円",
+        "raw": 880000
+      },
+      "mileage": {
+        "display": "3.6万km",
+        "raw": 36000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "車検整備付",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "銀",
+      "colorCodes": "SI",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/389/783/U00047389783/U00047389783_002L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/389/783/U00047389783/SU00047389783_1_003.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/389/783/U00047389783/SU00047389783_2_003.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/389/783/U00047389783/SU00047389783_3_003.jpg"
+      ],
+      "shopName": "京都自動車",
+      "shopLocation": "京都府 京都市左京区",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6088964902/index.html",
+      "page": "page_3_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.293Z"
+    },
+    {
+      "id": "AU6870802430",
+      "make": "三菱",
+      "model": "パジェロミニ 660 VR 4WD イクリプス製メモリーナビゲーション　バックカメラ　リヤスポイラー　ルーフレール　キーレスキー　ETC　スタッドレスタイヤ",
+      "year": 2010,
+      "totalPrice": {
+        "display": "107万円",
+        "raw": 1070000
+      },
+      "basePrice": {
+        "display": "99万円",
+        "raw": 990000
+      },
+      "mileage": {
+        "display": "2.7万km",
+        "raw": 27000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "2027(R09)年08月",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "銀Ｍ",
+      "colorCodes": "SI",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/937/619/U00051937619/U00051937619_001L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/937/619/U00051937619/SU00051937619_1_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/937/619/U00051937619/SU00051937619_2_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/937/619/U00051937619/SU00051937619_3_001.jpg"
+      ],
+      "shopName": "兵庫三菱自動車販売（株） ＵＣＡＲジェームス山",
+      "shopLocation": "兵庫県 神戸市垂水区",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6870802430/index.html",
+      "page": "page_3_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.294Z"
+    },
+    {
+      "id": "AU6867128892",
+      "make": "三菱",
+      "model": "パジェロミニ 660 VR 4WD",
+      "year": 2022,
+      "totalPrice": {
+        "display": "59万円",
+        "raw": 590000
+      },
+      "basePrice": {
+        "display": "51万円",
+        "raw": 510000
+      },
+      "mileage": {
+        "display": "11.3万km",
+        "raw": 113000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "2026(R08)年09月",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "真珠",
+      "colorCodes": "PL",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/979/715/U00051979715/U00051979715_001L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/979/715/U00051979715/SU00051979715_1_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/979/715/U00051979715/SU00051979715_2_002.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/979/715/U00051979715/SU00051979715_3_002.jpg"
+      ],
+      "shopName": "ＣＩＲＣＬＥ株式会社",
+      "shopLocation": "岐阜県 羽島郡",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6867128892/index.html",
+      "page": "page_3_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.296Z"
+    },
+    {
+      "id": "AU6408460673",
+      "make": "三菱",
+      "model": "パジェロミニ 660 プレミアム セレクション 4WD 喫煙車両　オーディオレス",
+      "year": 2012,
+      "totalPrice": {
+        "display": "107万円",
+        "raw": 1070000
+      },
+      "basePrice": {
+        "display": "98万円",
+        "raw": 980000
+      },
+      "mileage": {
+        "display": "5.7万km",
+        "raw": 57000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "車検整備付",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "赤茶銀",
+      "colorCodes": "RD,BR,SI",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/377/861/U00049377861/U00049377861_001L.JPG",
+      "additionalImages": [],
+      "shopName": "群馬三菱自動車販売（株） クリーンカー中央",
+      "shopLocation": "群馬県 高崎市",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6408460673/index.html",
+      "page": "page_3_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.297Z"
+    },
+    {
+      "id": "AU6869481401",
+      "make": "三菱",
+      "model": "パジェロミニ 660 ZR 4WD ナビTV　キーレスエントリー　ETC",
+      "year": 2011,
+      "totalPrice": {
+        "display": "59万円",
+        "raw": 590000
+      },
+      "basePrice": {
+        "display": "48万円",
+        "raw": 480000
+      },
+      "mileage": {
+        "display": "7.2万km",
+        "raw": 72000
+      },
+      "transmission": "フロア5MT",
+      "engineSize": "660CC",
+      "inspection": "2026(R08)年12月",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "銀",
+      "colorCodes": "SI",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/001/341/U00052001341/U00052001341_001L.JPG",
+      "additionalImages": [],
+      "shopName": "クロカワ自動車株式会社 大宮店",
+      "shopLocation": "福井県 福井市",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6869481401/index.html",
+      "page": "page_3_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.297Z"
+    },
+    {
+      "id": "AU6670311118",
+      "make": "三菱",
+      "model": "パジェロミニ 660 VR 4WD 5速マニュアル　キーレスエントリー　ルーフキャリア",
+      "year": 2011,
+      "totalPrice": {
+        "display": "79万円",
+        "raw": 790000
+      },
+      "basePrice": {
+        "display": "70万円",
+        "raw": 700000
+      },
+      "mileage": {
+        "display": "5.2万km",
+        "raw": 52000
+      },
+      "transmission": "フロア5MT",
+      "engineSize": "660CC",
+      "inspection": "2026(R08)年05月",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "銀",
+      "colorCodes": "SI",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/947/646/U00050947646/U00050947646_001L.JPG",
+      "additionalImages": [],
+      "shopName": "クロカワ自動車株式会社 大宮店",
+      "shopLocation": "福井県 福井市",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6670311118/index.html",
+      "page": "page_3_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.298Z"
+    },
+    {
+      "id": "AU6869482030",
+      "make": "三菱",
+      "model": "パジェロミニ 660 VR 4WD ターボ・4.3万キロ・キーレス",
+      "year": 2009,
+      "totalPrice": {
+        "display": "49万円",
+        "raw": 490000
+      },
+      "basePrice": {
+        "display": "39万円",
+        "raw": 390000
+      },
+      "mileage": {
+        "display": "4.3万km",
+        "raw": 43000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "車検整備付",
+      "repairHistory": true,
+      "warranty": "保証付",
+      "color": "黒II",
+      "colorCodes": "BK",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/965/556/U00051965556/U00051965556_001L.JPG",
+      "additionalImages": [
+        "//ccsrpcml.carsensor.net/CSphoto/ml/965/556/U00051965556/SU00051965556_1_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/965/556/U00051965556/SU00051965556_2_001.jpg",
+        "//ccsrpcml.carsensor.net/CSphoto/ml/965/556/U00051965556/SU00051965556_3_001.jpg"
+      ],
+      "shopName": "ＡＵＴＯ　ＣＲＥＳＴ／オートクレスト",
+      "shopLocation": "北海道 石狩市",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6869482030/index.html",
+      "page": "page_3_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.299Z"
+    },
+    {
+      "id": "AU6553152461",
+      "make": "三菱",
+      "model": "パジェロミニ 660 XR アルミホイール　電格ミラー　キーレスエントリー　カロッツェリアデッキ",
+      "year": 2004,
+      "totalPrice": {
+        "display": "44万円",
+        "raw": 440000
+      },
+      "basePrice": {
+        "display": "34万円",
+        "raw": 340000
+      },
+      "mileage": {
+        "display": "4.6万km",
+        "raw": 46000
+      },
+      "transmission": "フロア4AT",
+      "engineSize": "660CC",
+      "inspection": "車検整備付",
+      "repairHistory": false,
+      "warranty": "保証付",
+      "color": "銀",
+      "colorCodes": "SI",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/204/693/U00050204693/U00050204693_001L.JPG",
+      "additionalImages": [],
+      "shopName": "オートクリスタル",
+      "shopLocation": "兵庫県 西宮市",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6553152461/index.html",
+      "page": "page_3_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.300Z"
+    },
+    {
+      "id": "AU6877256654",
+      "make": "三菱",
+      "model": "パジェロミニ 660 アイアンクロス X 4WD 検査10年3月/タイミングベルト交換済/社外ステアリング",
+      "year": 1998,
+      "totalPrice": {
+        "display": "34万円",
+        "raw": 340000
+      },
+      "basePrice": {
+        "display": "24万円",
+        "raw": 240000
+      },
+      "mileage": {
+        "display": "11.4万km",
+        "raw": 114000
+      },
+      "transmission": "フロア3AT",
+      "engineSize": "660CC",
+      "inspection": "2028(R10)年03月",
+      "repairHistory": false,
+      "warranty": "保証無",
+      "color": "黒灰II",
+      "colorCodes": "BK,GL",
+      "mainImage": "//ccsrpcma.carsensor.net/CSphoto/bkkn/047/917/U00052047917/U00052047917_002L.JPG",
+      "additionalImages": [],
+      "shopName": "Ｒ（アール）堀田店",
+      "shopLocation": "愛知県 名古屋市瑞穂区",
+      "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6877256654/index.html",
+      "page": "page_3_partial.html",
+      "parsedAt": "2026-03-19T12:51:22.301Z"
+    }
+  ]
+}
