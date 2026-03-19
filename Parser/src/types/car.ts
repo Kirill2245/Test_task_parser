@@ -60,7 +60,7 @@ export interface Stats {
 
 export interface DownloadResult {
   success: boolean;
-  filePath: string;
+  filePath?: string;
   pageNumber: number;
   url: string;
   size?: number;
