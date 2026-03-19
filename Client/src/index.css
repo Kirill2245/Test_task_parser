@@ -66,4 +66,48 @@ body {
   margin: 0;
 }
 
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    @apply antialiased;
+    -webkit-tap-highlight-color: transparent;
+  }
+  
+  body {
+    @apply m-0 p-0;
+  }
+}
+
+@layer utilities {
+  @keyframes shake {
+    0%, 100% { transform: translateX(0); }
+    10%, 30%, 50%, 70%, 90% { transform: translateX(-2px); }
+    20%, 40%, 60%, 80% { transform: translateX(2px); }
+  }
+
+  .animate-shake {
+    animation: shake 0.5s ease-in-out;
+  }
+
+  .text-2xs {
+    font-size: 0.625rem;
+    line-height: 0.875rem;
+  }
+
+  @media (min-width: 320px) {
+    .xs\:max-w-sm {
+      max-width: 24rem;
+    }
+    .xs\:p-7 {
+      padding: 1.75rem;
+    }
+    .xs\:text-5xl {
+      font-size: 3rem;
+      line-height: 1;
+    }
+  }
+}
 

@@ -1,4 +1,4 @@
-// services/auth.service.ts
+
 import axios from 'axios';
 import type { LoginDto, RegisterDto, AuthResponse, User } from '../types/auth.types';
 
@@ -16,7 +16,7 @@ class AuthService {
       },
     });
 
-    // Интерсептор для добавления токена к запросам
+
     this.api.interceptors.request.use((config) => {
       const token = this.getToken();
       if (token) {
