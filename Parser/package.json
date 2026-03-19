@@ -7,23 +7,30 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": " ts-node src/index.ts",
     "build": "tsc",
-    "start": "node dist/index.js"
+    "start": "node dist/index.js",
+    "prisma:generate": "prisma generate"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^25.5.0",
+    "@types/pg": "^8.18.0",
     "@types/puppeteer": "^5.4.7",
     "nodemon": "^3.1.14",
+    "prisma": "^7.5.0",
     "ts-node": "^10.9.2",
     "tsx": "^4.21.0",
     "typescript": "^5.9.3"
   },
   "dependencies": {
+    "@prisma/adapter-pg": "^7.5.0",
+    "@prisma/client": "^7.5.0",
     "axios": "^1.13.6",
     "cheerio": "^1.2.0",
+    "dotenv": "^17.3.1",
     "jmdict-simplified-node": "^1.1.2",
+    "pg": "^8.20.0",
     "puppeteer": "^24.39.1"
   }
 }

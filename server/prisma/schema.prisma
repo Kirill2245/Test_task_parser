@@ -10,39 +10,39 @@ datasource db {
 }
 
 model Car {
-  id                       String   @id @map("_id")
-  make                     String
-  model                    String
-  year                     Int
-  totalPriceDisplay        String   @map("totalPrice.display")
-  totalPriceRaw            Int      @map("totalPrice.raw")
-  basePriceDisplay         String   @map("basePrice.display")
-  basePriceRaw             Int      @map("basePrice.raw")
-  mileageDisplay           String   @map("mileage.display")
-  mileageRaw               Int      @map("mileage.raw")
-  transmission             String
-  engineSize               String
-  inspection               String
-  repairHistory            Boolean
-  warranty                 String
-  color                    String
-  colorCodes               String
-  mainImage                String
-  additionalImages         String[]
-  shopName                 String
-  shopLocation             String
-  detailUrl                String
-  page                     String
-  parsedAt                 DateTime
-  makeTranslated           String
-  colorTranslated          String
-  transmissionTranslated   String
-  inspectionTranslated     String
-  warrantyTranslated       String
-  repairHistoryTranslated  String
-  modelTranslated          String
-  shopNameTranslated       String
-  shopLocationTranslated   String
+  id                        String   @id @default(uuid())
+  make                      String
+  model                     String
+  year                      Int
+  totalPriceDisplay         String
+  totalPriceRaw             Int
+  basePriceDisplay          String?
+  basePriceRaw              Int?
+  mileageDisplay            String?
+  mileageRaw                Int?
+  transmission              String?
+  engineSize                String?
+  inspection                String?
+  repairHistory             Boolean?
+  warranty                  String?
+  color                     String?
+  colorCodes                String?
+  mainImage                 String?
+  additionalImages          Json?    // храним как JSON массив
+  shopName                  String?
+  shopLocation              String?
+  detailUrl                 String?  @unique
+  page                      String?
+  parsedAt                  DateTime
+  makeTranslated            String?
+  colorTranslated           String?
+  transmissionTranslated    String?
+  inspectionTranslated      String?
+  warrantyTranslated        String?
+  repairHistoryTranslated   String?
+  modelTranslated           String?
+  shopNameTranslated        String?
+  shopLocationTranslated    String?
 
   @@map("cars")
 }
