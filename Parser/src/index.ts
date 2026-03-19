@@ -4,6 +4,7 @@ import { ParserService } from './services/parser.service';
 import { StorageService } from './services/storage.service';
 import { CleanerService } from './services/cleaner.service';
 import { TranslatorService } from './services/translator.service';
+import { ApiSenderService } from './services/api-sender.service';
 
 class CarParserApp {
   private downloader: DownloaderService;
@@ -13,6 +14,7 @@ class CarParserApp {
   private translator: TranslatorService;
   private isRunning: boolean = false;
   private intervalId: NodeJS.Timeout | null = null;
+  private apiSender: ApiSenderService; 
 
   constructor() {
     this.downloader = new DownloaderService();
@@ -20,6 +22,7 @@ class CarParserApp {
     this.storage = new StorageService();
     this.cleaner = new CleanerService();
     this.translator = new TranslatorService();
+     this.apiSender = new ApiSenderService();
   }
 
 
@@ -82,9 +85,10 @@ class CarParserApp {
           console.log(`Пробег: ${car.mileage.display}`);
         });
       }
+      Logger.section('ШАГ 5: Отправка в API ');
+      await this.apiSender.sendTranslatedToApi();
 
-
-      Logger.section('ШАГ 5: Очистка временных файлов');
+      Logger.section('ШАГ 6: Очистка временных файлов');
       await this.cleaner.cleanup(downloadedFiles);
 
       const endTime = Date.now();

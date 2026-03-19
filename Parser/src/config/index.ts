@@ -50,7 +50,7 @@ export const config = {
   },
   
   parsing: {
-    maxPages: 1,
+    maxPages: 10,
     minHtmlSize: 1000
   }
 };
