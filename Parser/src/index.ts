@@ -22,9 +22,9 @@ class CarParserApp {
     this.translator = new TranslatorService();
   }
 
-  // Основной метод для запуска парсинга
+
   async runOnce() {
-    // Предотвращаем одновременный запуск
+
     if (this.isRunning) {
       Logger.success('⚠️ Предыдущий запуск ещё выполняется, пропускаем...');
       return;
@@ -35,12 +35,11 @@ class CarParserApp {
     
     try {
       Logger.section(`ЗАПУСК: ${new Date().toLocaleString()}`);
-      
-      // Инициализация
+
       await this.downloader.initialize();
       await this.storage.initialize();
 
-      // ШАГ 1: Загрузка
+
       Logger.section('ШАГ 1: Загрузка HTML страниц');
       const downloadedFiles = await this.downloader.downloadPages();
 
@@ -49,7 +48,7 @@ class CarParserApp {
         return;
       }
 
-      // ШАГ 2: Парсинг
+
       Logger.section('ШАГ 2: Парсинг HTML файлов');
       const allCars = [];
       
@@ -58,16 +57,16 @@ class CarParserApp {
         allCars.push(...cars);
       }
 
-      // ШАГ 3: Сохранение результатов в JSON
+
       Logger.section('ШАГ 3: Сохранение в JSON');
       await this.storage.saveAllCars(allCars);
       await this.storage.saveStats(allCars);
 
-      // ШАГ 4: Перевод данных
+
       Logger.section('ШАГ 4: Перевод данных');
       await this.translator.saveTranslated(allCars);
 
-      // Показываем статистику
+
       Logger.section('ИТОГИ');
       Logger.info(`Обработано страниц: ${downloadedFiles.length}`);
       Logger.success(`Всего машин: ${allCars.length}`);
@@ -84,7 +83,7 @@ class CarParserApp {
         });
       }
 
-      // ШАГ 5: Очистка
+
       Logger.section('ШАГ 5: Очистка временных файлов');
       await this.cleaner.cleanup(downloadedFiles);
 
@@ -104,7 +103,7 @@ class CarParserApp {
     }
   }
 
-  // Запуск с интервалом
+
   start(intervalHours: number = 1) {
     const intervalMs = intervalHours * 60 * 60 * 1000;
     
@@ -112,21 +111,21 @@ class CarParserApp {
     Logger.info(`⏰ Интервал: каждый ${intervalHours} час(а)`);
     Logger.info(`🕐 Первый запуск: сейчас`);
 
-    // Запускаем сразу
+
     this.runOnce().catch(console.error);
 
-    // Затем запускаем по расписанию
+
     this.intervalId = setInterval(() => {
       Logger.info(`\n🕐 Плановый запуск в ${new Date().toLocaleString()}`);
       this.runOnce().catch(console.error);
     }, intervalMs);
 
-    // Обработка сигналов завершения
+
     process.on('SIGINT', () => this.stop());
     process.on('SIGTERM', () => this.stop());
   }
 
-  // Остановка планировщика
+
   stop() {
     if (this.intervalId) {
       clearInterval(this.intervalId);
@@ -134,16 +133,16 @@ class CarParserApp {
       Logger.success('\n⏹️ Планировщик остановлен');
     }
     
-    // Даем время завершить текущий запуск
+
     if (this.isRunning) {
       Logger.success('⏳ Ожидание завершения текущего процесса...');
-      // Ждем максимум 30 секунд
+
       const timeout = setTimeout(() => {
         Logger.error('❌ Принудительное завершение');
         process.exit(1);
       }, 30000);
       
-      // Проверяем каждые 100мс
+
       const checkInterval = setInterval(() => {
         if (!this.isRunning) {
           clearInterval(checkInterval);
@@ -156,31 +155,30 @@ class CarParserApp {
     }
   }
 
-  // Запуск одного цикла (для совместимости)
+
   async run() {
     return this.runOnce();
   }
 }
 
-// Функция для запуска с настройками из переменных окружения
+
 function startApp() {
   const app = new CarParserApp();
   
-  // Получаем интервал из переменной окружения (по умолчанию 1 час)
+
   const intervalHours = parseInt(process.env.PARSER_INTERVAL_HOURS || '1', 10);
   
-  // Проверяем режим запуска
+
   if (process.env.RUN_ONCE === 'true') {
-    // Однократный запуск
+
     app.run().catch(console.error);
   } else {
-    // Запуск по расписанию
+
     app.start(intervalHours);
   }
 }
 
-// Запуск приложения
+
 startApp();
 
-// Экспорт для тестирования
 export { CarParserApp };

@@ -1,4 +1,4 @@
-
+// src/import-cars/dto/import-car.dto.ts
 import {
   IsString,
   IsInt,
@@ -8,11 +8,26 @@ import {
   IsDateString,
   IsArray,
   ValidateNested,
-  IsJSON,
 } from 'class-validator';
 import { Type } from 'class-transformer';
 
-export class CreateCarsDto {
+class PriceDto {
+  @IsString()
+  display: string;
+
+  @IsInt()
+  raw: number;
+}
+
+class MileageDto {
+  @IsString()
+  display: string;
+
+  @IsInt()
+  raw: number;
+}
+
+export class ImportCarDto {
   @IsString()
   make: string;
 
@@ -22,85 +37,61 @@ export class CreateCarsDto {
   @IsInt()
   year: number;
 
+  @ValidateNested()
+  @Type(() => PriceDto)
+  totalPrice: PriceDto;
+
+  @ValidateNested()
+  @Type(() => PriceDto)
+  basePrice: PriceDto;
+
+  @ValidateNested()
+  @Type(() => MileageDto)
+  mileage: MileageDto;
+
   @IsString()
-  totalPriceDisplay: string;
+  transmission: string;
 
-  @IsInt()
-  totalPriceRaw: number;
-
-  @IsOptional()
   @IsString()
-  basePriceDisplay?: string;
+  engineSize: string;
 
-  @IsOptional()
-  @IsInt()
-  basePriceRaw?: number;
-
-  @IsOptional()
   @IsString()
-  mileageDisplay?: string;
+  inspection: string;
 
-  @IsOptional()
-  @IsInt()
-  mileageRaw?: number;
-
-  @IsOptional()
-  @IsString()
-  transmission?: string;
-
-  @IsOptional()
-  @IsString()
-  engineSize?: string;
-
-  @IsOptional()
-  @IsString()
-  inspection?: string;
-
-  @IsOptional()
   @IsBoolean()
-  repairHistory?: boolean;
+  repairHistory: boolean;
 
-  @IsOptional()
   @IsString()
-  warranty?: string;
+  warranty: string;
 
-  @IsOptional()
   @IsString()
-  color?: string;
+  color: string;
 
-  @IsOptional()
   @IsString()
-  colorCodes?: string;
+  colorCodes: string;
 
-  @IsOptional()
-  @IsString()
-  mainImage?: string;
+  @IsUrl({ require_tld: false })
+  mainImage: string;
 
-  @IsOptional()
   @IsArray()
   @IsString({ each: true })
-  additionalImages?: string[];
+  additionalImages: string[];
 
-  @IsOptional()
   @IsString()
-  shopName?: string;
+  shopName: string;
 
-  @IsOptional()
   @IsString()
-  shopLocation?: string;
+  shopLocation: string;
 
-  @IsOptional()
   @IsUrl()
-  detailUrl?: string;
+  detailUrl: string;
 
-  @IsOptional()
   @IsString()
-  page?: string;
+  page: string;
 
   @IsDateString()
-  parsedAt: Date;
+  parsedAt: string;
 
-  // Поля для переведенных значений
   @IsOptional()
   @IsString()
   makeTranslated?: string;

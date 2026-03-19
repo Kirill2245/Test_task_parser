@@ -1,5 +1,6 @@
-import { Controller, Get } from '@nestjs/common';
+import { Body, Controller, Get, Post } from '@nestjs/common';
 import { ImportCarsService } from './import-cars.service';
+import { ImportCarDto } from './dto/import-car.dto';
 
 @Controller('import-cars')
 export class ImportCarsController {
@@ -8,5 +9,10 @@ export class ImportCarsController {
   @Get('/test')
   public test(){
     return {succes:true}
+  }
+
+  @Post()
+  public async importAllCars(@Body() dtos: ImportCarDto[]) {
+    return this.importCarsService.importAllCars(dtos);
   }
 }
