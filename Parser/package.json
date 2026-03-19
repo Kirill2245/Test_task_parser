@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon --exec ts-node src/index.ts",
+    "dev": " ts-node src/index.ts",
     "build": "tsc",
     "start": "node dist/index.js"
   },
@@ -23,6 +23,7 @@
   "dependencies": {
     "axios": "^1.13.6",
     "cheerio": "^1.2.0",
+    "jmdict-simplified-node": "^1.1.2",
     "puppeteer": "^24.39.1"
   }
 }

@@ -1,6 +1,6 @@
 {
   "totalCars": 90,
-  "parsedAt": "2026-03-19T13:22:39.555Z",
+  "translatedAt": "2026-03-19T13:22:39.627Z",
   "cars": [
     {
       "id": "AU6870963054",
@@ -36,7 +36,16 @@
       "shopLocation": "福岡県 行橋市",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6870963054/index.html",
       "page": "page_1_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.359Z"
+      "parsedAt": "2026-03-19T13:22:39.359Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Black",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "With Inspection",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 VR 4DualD Automatic/4DualD/Turbo/Thousandeyless/CD Tuner/バッ",
+      "shopNameTranslated": "株式会社Honda Cars博多 行橋店",
+      "shopLocationTranslated": "Fukuoka 行橋市"
     },
     {
       "id": "AU6879492574",
@@ -72,7 +81,16 @@
       "shopLocation": "滋賀県 東近江市",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6879492574/index.html",
       "page": "page_1_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.361Z"
+      "parsedAt": "2026-03-19T13:22:39.361Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Black Silver",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "2028年02月",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 VR 4DualD SD Navigation Back Camera Dash Cam ETC Power Folding Mirrors Fog Lights Non-Smoking LED Headlights Headlight Levelizer Air Conditioner Bluetooth Thousandeyless Full-Seg TV Privacy Glass",
+      "shopNameTranslated": "Nextage 東近江店",
+      "shopLocationTranslated": "Shiga 東近江市"
     },
     {
       "id": "AU6883932944",
@@ -108,7 +126,16 @@
       "shopLocation": "大分県 大分市",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6883932944/index.html",
       "page": "page_1_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.363Z"
+      "parsedAt": "2026-03-19T13:22:39.363Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Silver Metallic",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "2028年02月",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 VR 4DualD One-Seg Navigation・Fog Lights・ETC・4DualD",
+      "shopNameTranslated": "大分三菱自動車販売株式会社 クリーンCar下郡バイパス",
+      "shopLocationTranslated": "Oita 大分市"
     },
     {
       "id": "AU6595425608",
@@ -144,7 +171,16 @@
       "shopLocation": "京都府 京都市北区",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6595425608/index.html",
       "page": "page_1_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.364Z"
+      "parsedAt": "2026-03-19T13:22:39.364Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Silver Blue",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "With Inspection",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 VR 4DualD 4DualD　ETC　Thousandeyless Spare Thousandey　CD　Rear-mounted Spare Tire　Power Steering　Power Dualindows　Power Folding Mirrors　OEM Aluminum Dualheels",
+      "shopNameTranslated": "Carステーションブーブーハウス めちゃ安１号店",
+      "shopLocationTranslated": "Kyoto 京都市北区"
     },
     {
       "id": "AU6687151804",
@@ -180,7 +216,16 @@
       "shopLocation": "兵庫県 三田市",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6687151804/index.html",
       "page": "page_1_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.366Z"
+      "parsedAt": "2026-03-19T13:22:39.366Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Silver",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "2027年08月",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Был ремонт",
+      "modelTranslated": "Pajero Mini 660 Exceed 4DualD 1Year保証走行距離無制限/Switchable 4DualD/Navigation/ETC",
+      "shopNameTranslated": "Honda Cars兵庫 三田中央店Ｈｏｎｄａ　Ｕ－Ｃａｒ",
+      "shopLocationTranslated": "Hyogo 三田市"
     },
     {
       "id": "AU6869806728",
@@ -216,7 +261,16 @@
       "shopLocation": "京都府 京都市伏見区",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6869806728/index.html",
       "page": "page_1_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.367Z"
+      "parsedAt": "2026-03-19T13:22:39.367Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Black",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "2027年03月",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 VR 4DualD 4DualD SD Navigation Non-Smoking Vehicle Dash Cam ETC",
+      "shopNameTranslated": "Nextage 京都伏見店",
+      "shopLocationTranslated": "Kyoto 京都市伏見区"
     },
     {
       "id": "AU6817380076",
@@ -252,7 +306,16 @@
       "shopLocation": "北海道 江別市",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6817380076/index.html",
       "page": "page_1_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.368Z"
+      "parsedAt": "2026-03-19T13:22:39.368Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Deep Silver Metallic",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "With Inspection",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini VR　Final Anniversary In-house　Loan　Supported　2-year Inspection　Honshu Sourced　Navigation　TV　ETC　Aluminum Dualheels　Studless Tires Installed　Transfer Case　Cool Silver Metallic　全道　Supported",
+      "shopNameTranslated": "オーシャンデザイン　北海道江別Store",
+      "shopLocationTranslated": "Hokkaido 江別市"
     },
     {
       "id": "AU6894124121",
@@ -288,7 +351,16 @@
       "shopLocation": "山口県 防府市",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6894124121/index.html",
       "page": "page_1_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.369Z"
+      "parsedAt": "2026-03-19T13:22:39.369Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Black Metallic",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "With Inspection",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 Premium Selection 4DualD 4DualD ハーフ",
+      "shopNameTranslated": "Nextage 防府店",
+      "shopLocationTranslated": "Yamaguchi 防府市"
     },
     {
       "id": "AU6881960652",
@@ -324,7 +396,16 @@
       "shopLocation": "神奈川県 相模原市中央区",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6881960652/index.html",
       "page": "page_1_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.371Z"
+      "parsedAt": "2026-03-19T13:22:39.371Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Silver",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "Without Inspection",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Был ремонт",
+      "modelTranslated": "Pajero Mini 660 Exceed 4DualD HDD Navigation Full-Seg TV Thousandeyless",
+      "shopNameTranslated": "ＣＡＲ　ＢＡＮＫ　ＲＩＧＨＴ",
+      "shopLocationTranslated": "Kanagawa 相模原市中央区"
     },
     {
       "id": "AU6841119730",
@@ -360,7 +441,16 @@
       "shopLocation": "千葉県 千葉市中央区",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6841119730/index.html",
       "page": "page_1_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.372Z"
+      "parsedAt": "2026-03-19T13:22:39.372Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Silver Metallic",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "2027年01月",
+      "warrantyTranslated": "Without Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 Active Field Edition 4DualD User Purchased Vehicle/Turbo/Timing Belt Replaced/OEM Navigation/CD/DVD/ETC車載器/Fully Flat/Thousandeyless Entry/フロントFog Lights/Levelizer/Power Folding Mirrors/Door Visors",
+      "shopNameTranslated": "Ｔａｕｒｏｓ　Ｊａｐａｎ　ＣＨＩＢＡ　タウロスジャパン",
+      "shopLocationTranslated": "Chiba 千葉市中央区"
     },
     {
       "id": "AU6807327321",
@@ -392,7 +482,16 @@
       "shopLocation": "大分県 速見郡",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6807327321/index.html",
       "page": "page_1_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.373Z"
+      "parsedAt": "2026-03-19T13:22:39.373Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "White",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "2027年01月",
+      "warrantyTranslated": "Without Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 XR Thousandeyless　CD Player　Air Conditioner　Power Steering　Dual Airbags　Power Dualindows　OEM Aluminum Dualheels",
+      "shopNameTranslated": "日出中央自動車",
+      "shopLocationTranslated": "Oita 速見郡"
     },
     {
       "id": "AU6857316387",
@@ -428,7 +527,16 @@
       "shopLocation": "岐阜県 関市",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6857316387/index.html",
       "page": "page_1_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.374Z"
+      "parsedAt": "2026-03-19T13:22:39.374Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Green",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "2027年10月",
+      "warrantyTranslated": "Without Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 X 4DualD 4DualD Automatic Airbag Air Conditioner Power Steering Power Dualindows 15-inch Rear-mounted Spare Tire",
+      "shopNameTranslated": "（株）アイルー 関Store",
+      "shopLocationTranslated": "Gifu 関市"
     },
     {
       "id": "AU6554589271",
@@ -460,7 +568,16 @@
       "shopLocation": "愛媛県 四国中央市",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6554589271/index.html",
       "page": "page_1_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.375Z"
+      "parsedAt": "2026-03-19T13:22:39.375Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Light Brown",
+      "transmissionTranslated": "フロア3Automatic",
+      "inspectionTranslated": "With Inspection",
+      "warrantyTranslated": "Without Warranty",
+      "repairHistoryTranslated": "Был ремонт",
+      "modelTranslated": "Pajero Mini XR-II",
+      "shopNameTranslated": "長野総業",
+      "shopLocationTranslated": "Ehime 四国中央市"
     },
     {
       "id": "AU6516778728",
@@ -496,7 +613,16 @@
       "shopLocation": "埼玉県 吉川市",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6516778728/index.html",
       "page": "page_1_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.376Z"
+      "parsedAt": "2026-03-19T13:22:39.376Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Silver Metallic",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "2026年07月",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 R Turbo/Automatic/AC /ETC/37000Thousand/",
+      "shopNameTranslated": "アークAuto",
+      "shopLocationTranslated": "Saitama 吉川市"
     },
     {
       "id": "AU6617357639",
@@ -532,7 +658,16 @@
       "shopLocation": "千葉県 千葉市中央区",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6617357639/index.html",
       "page": "page_1_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.377Z"
+      "parsedAt": "2026-03-19T13:22:39.377Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Silver灰II",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "With Inspection",
+      "warrantyTranslated": "Without Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 アニバーサリー Limited 4DualD User Purchased Vehicle/Carrozzeria HDD Navigation/Thousandeyless Entry/Power Folding Mirrors/CD/DVD/フロントFog Lights/純正15-inchAluminum Dualheels/Door Visors",
+      "shopNameTranslated": "Ｔａｕｒｏｓ　Ｊａｐａｎ　ＣＨＩＢＡ　タウロスジャパン",
+      "shopLocationTranslated": "Chiba 千葉市中央区"
     },
     {
       "id": "AU6259226998",
@@ -568,7 +703,16 @@
       "shopLocation": "宮城県 仙台市宮城野区",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6259226998/index.html",
       "page": "page_1_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.378Z"
+      "parsedAt": "2026-03-19T13:22:39.378Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Silver",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "Without Inspection",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Был ремонт",
+      "modelTranslated": "Pajero Mini 660 VR 4DualD 4-speed Automatic Turbo Thousandeyless ETC",
+      "shopNameTranslated": "ＣＡＲ　ＢＡＮＫ　ＲＩＧＨＴ　ベース仙台Store",
+      "shopLocationTranslated": "Miyagi 仙台市宮城野区"
     },
     {
       "id": "AU6658946208",
@@ -604,7 +748,16 @@
       "shopLocation": "岐阜県 瑞浪市",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6658946208/index.html",
       "page": "page_1_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.379Z"
+      "parsedAt": "2026-03-19T13:22:39.379Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Red Pearl",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "2027年02月",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 VR 4DualD Part-time 4DualD　Turbo　OEM Aluminum Dualheels",
+      "shopNameTranslated": "（株）アイルー 瑞浪Store",
+      "shopLocationTranslated": "Gifu 瑞浪市"
     },
     {
       "id": "AU6717845067",
@@ -640,7 +793,16 @@
       "shopLocation": "福井県 福井市",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6717845067/index.html",
       "page": "page_1_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.380Z"
+      "parsedAt": "2026-03-19T13:22:39.380Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Silver",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "With Inspection",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 VR 4DualD ディスプレイオーディオ Thousandeyless Aluminum Dualheels Thousandeyless",
+      "shopNameTranslated": "Ｄｏｏ　Ｃａｒｓ　Ｋ（ドゥーCarズＫ）高柳店",
+      "shopLocationTranslated": "Fukui 福井市"
     },
     {
       "id": "VU8039168196",
@@ -672,7 +834,16 @@
       "shopLocation": "北海道 札幌市白石区",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/VU8039168196/index.html",
       "page": "page_1_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.381Z"
+      "parsedAt": "2026-03-19T13:22:39.381Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Black",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "With Inspection",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Был ремонт",
+      "modelTranslated": "Pajero Mini XR　4DualD Engine Starter　Seat Heater",
+      "shopNameTranslated": "Autoプロデュース　サクセス",
+      "shopLocationTranslated": "Hokkaido 札幌市白石区"
     },
     {
       "id": "AU6771304884",
@@ -704,7 +875,16 @@
       "shopLocation": "群馬県 富岡市",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6771304884/index.html",
       "page": "page_1_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.382Z"
+      "parsedAt": "2026-03-19T13:22:39.382Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Black Metallic",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "With Inspection",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Был ремонт",
+      "modelTranslated": "Pajero Mini 660 VR 4DualD 4Automatic Turbo　Part-time 4DualD",
+      "shopNameTranslated": "（株）トヨナガ スズキアリーナトヨナガ富岡",
+      "shopLocationTranslated": "Gunma 富岡市"
     },
     {
       "id": "AU6632553900",
@@ -736,7 +916,16 @@
       "shopLocation": "福島県 田村市",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6632553900/index.html",
       "page": "page_1_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.383Z"
+      "parsedAt": "2026-03-19T13:22:39.383Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "White",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "With Inspection",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 ZR 4DualD Carrozzeria Navigation　ETC　3-gauge Analog Meter",
+      "shopNameTranslated": "軽自動車専門店　サトウMotors",
+      "shopLocationTranslated": "Fukushima 田村市"
     },
     {
       "id": "AU6841126010",
@@ -768,7 +957,16 @@
       "shopLocation": "宮城県 岩沼市",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6841126010/index.html",
       "page": "page_1_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.384Z"
+      "parsedAt": "2026-03-19T13:22:39.384Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Navy Silver",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "2028年01月",
+      "warrantyTranslated": "Without Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 Navigationエディション VR 4DualD Turbo　Thousandeyless　ETC　Power Folding Mirrors",
+      "shopNameTranslated": "スピリットモーター",
+      "shopLocationTranslated": "Miyagi 岩沼市"
     },
     {
       "id": "AU6853304438",
@@ -800,7 +998,16 @@
       "shopLocation": "埼玉県 吉川市",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6853304438/index.html",
       "page": "page_1_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.385Z"
+      "parsedAt": "2026-03-19T13:22:39.385Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Silver",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "With Inspection",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 VR 4DualD Turbo　4DualD　AC Non-Smoking Vehicle",
+      "shopNameTranslated": "アークAuto",
+      "shopLocationTranslated": "Saitama 吉川市"
     },
     {
       "id": "AU6665652319",
@@ -832,7 +1039,16 @@
       "shopLocation": "兵庫県 加古川市",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6665652319/index.html",
       "page": "page_1_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.386Z"
+      "parsedAt": "2026-03-19T13:22:39.386Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Silver Metallic",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "With Inspection",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 VR 4DualD Switchable 4DualD　Thousandeyless",
+      "shopNameTranslated": "Ａｕｔｏ　ｃｌｕｂ　ＢＵＳＴＥＲ",
+      "shopLocationTranslated": "Hyogo 加古川市"
     },
     {
       "id": "AU6811900471",
@@ -864,7 +1080,16 @@
       "shopLocation": "神奈川県 横浜市保土ヶ谷区",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6811900471/index.html",
       "page": "page_1_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.387Z"
+      "parsedAt": "2026-03-19T13:22:39.387Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "紺Gray",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "With Inspection",
+      "warrantyTranslated": "Without Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 Lynx V 4DualD ユーザー買取・Air Conditioner・アンチロック・ブレーキシステム・4DualD・Power Dualindows・パワーステアリング・フロントFog Lights付き",
+      "shopNameTranslated": "Ｔａｕｒｏｓ　Ｊａｐａｎ　ＹＯＫＯＨＡＭＡ　タウロスジャパン",
+      "shopLocationTranslated": "Kanagawa 横浜市保土ヶ谷区"
     },
     {
       "id": "AU6674204390",
@@ -896,7 +1121,16 @@
       "shopLocation": "埼玉県 羽生市",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6674204390/index.html",
       "page": "page_1_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.387Z"
+      "parsedAt": "2026-03-19T13:22:39.387Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Silver Black",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "2026年04月",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Был ремонт",
+      "modelTranslated": "Pajero Mini 660 VR 4DualD Navigation TV　Switchable 4DualD　Turbo　Rear-mounted Spare Tire　Rear Spoiler　Thousandeyless　Power Folding Mirrors　OEM Aluminum Dualheels",
+      "shopNameTranslated": "AutoＰＡＸ　川野辺自動車販売（株）　羽生１２２号バイパス店 ＪＵ適正販売店",
+      "shopLocationTranslated": "Saitama 羽生市"
     },
     {
       "id": "AU6805628397",
@@ -932,7 +1166,16 @@
       "shopLocation": "北海道 札幌市東区",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6805628397/index.html",
       "page": "page_1_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.388Z"
+      "parsedAt": "2026-03-19T13:22:39.388Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Silver",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "With Inspection",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Был ремонт",
+      "modelTranslated": "Pajero Mini 660 Exceed 4DualD Honshu Sourced　Cold Region Spec　Thousandeyless　OEM Stereo　ETC　Seat Heater　Parking Sensor",
+      "shopNameTranslated": "ジーエム自動車 Main Store",
+      "shopLocationTranslated": "Hokkaido 札幌市東区"
     },
     {
       "id": "AU6893029743",
@@ -968,7 +1211,16 @@
       "shopLocation": "東京都 八王子市",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6893029743/index.html",
       "page": "page_1_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.390Z"
+      "parsedAt": "2026-03-19T13:22:39.390Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Silver",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "2027年01月",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Был ремонт",
+      "modelTranslated": "Pajero Mini 660 Limited エディション VR 4DualD Memory Navigation Back Camera Full-Seg TV",
+      "shopNameTranslated": "ＣＡＲ　ＢＡＮＫ　ＲＩＧＨＴ　八王子フィールドStore",
+      "shopLocationTranslated": "Tokyo 八王子市"
     },
     {
       "id": "AU6511475704",
@@ -1000,7 +1252,16 @@
       "shopLocation": "熊本県 山鹿市",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6511475704/index.html",
       "page": "page_1_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.390Z"
+      "parsedAt": "2026-03-19T13:22:39.390Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Pearl",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "2028年02月",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 XR",
+      "shopNameTranslated": "有限会社マイCarランドマツヤマ",
+      "shopLocationTranslated": "Kumamoto 山鹿市"
     },
     {
       "id": "AU6862035019",
@@ -1036,7 +1297,16 @@
       "shopLocation": "埼玉県 草加市",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6862035019/index.html",
       "page": "page_1_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.392Z"
+      "parsedAt": "2026-03-19T13:22:39.392Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Silver Metallic",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "With Inspection",
+      "warrantyTranslated": "Without Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 Exceed 4DualD /Non-Smoking Vehicle/CD Component/AM・FM/AUX/Air Conditioner/パワーステアリング/Power Dualindows/Driver Airbag/Passenger Airbag/FOG Lamp/15-inch Aluminum Dualheelsホイール/Power Folding Mirrors/ABS/4DualD/",
+      "shopNameTranslated": "ＣＡＲ　ＰＬＡＴ 草加中央",
+      "shopLocationTranslated": "Saitama 草加市"
     },
     {
       "id": "AU6869654585",
@@ -1072,7 +1342,16 @@
       "shopLocation": "北海道 札幌市東区",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6869654585/index.html",
       "page": "page_2_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.448Z"
+      "parsedAt": "2026-03-19T13:22:39.448Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Silver",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "With Inspection",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Был ремонт",
+      "modelTranslated": "Pajero Mini 660 Exceed 4DualD Thousandeyless　ABS　Power Folding Mirrors　Roof Rails",
+      "shopNameTranslated": "アップルワールド 丘珠空港通Store",
+      "shopLocationTranslated": "Hokkaido 札幌市東区"
     },
     {
       "id": "AU6897578320",
@@ -1108,7 +1387,16 @@
       "shopLocation": "埼玉県 春日部市",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6897578320/index.html",
       "page": "page_2_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.449Z"
+      "parsedAt": "2026-03-19T13:22:39.449Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Pearl White",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "Without Inspection",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 Navigationエディション VR 4DualD HDD Navigation One-Seg TV Thousandeyless ETC",
+      "shopNameTranslated": "ＣＡＲ　ＢＡＮＫ　ＲＩＧＨＴ　春日部フィールドStore",
+      "shopLocationTranslated": "Saitama 春日部市"
     },
     {
       "id": "AU6897945505",
@@ -1144,7 +1432,16 @@
       "shopLocation": "広島県 廿日市市",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6897945505/index.html",
       "page": "page_2_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.450Z"
+      "parsedAt": "2026-03-19T13:22:39.450Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Black Metallic",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "2026年12月",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 Limited User Trade-in Vehicle　Non-Smoking Vehicle　フロア4速Automatic　Aftermarket Navigation　Air Conditioner　Power Steering　Power Dualindows　Dual Airbags　ABS　Thousandeyless Entry　Power Folding Mirrors　Dash Cam　ETC付き　OEM Aluminum Dualheels",
+      "shopNameTranslated": "軽自動車専門Store　軽マーケット",
+      "shopLocationTranslated": "Hiroshima 廿日市市"
     },
     {
       "id": "AU6897578459",
@@ -1180,7 +1477,16 @@
       "shopLocation": "埼玉県 春日部市",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6897578459/index.html",
       "page": "page_2_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.451Z"
+      "parsedAt": "2026-03-19T13:22:39.451Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "White",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "Without Inspection",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 Active Field Edition 4DualD Timing Belt Replacedみ Memory Navigation",
+      "shopNameTranslated": "ＣＡＲ　ＢＡＮＫ　ＲＩＧＨＴ　春日部フィールドStore",
+      "shopLocationTranslated": "Saitama 春日部市"
     },
     {
       "id": "AU6838382374",
@@ -1216,7 +1522,16 @@
       "shopLocation": "埼玉県 春日部市",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6838382374/index.html",
       "page": "page_2_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.453Z"
+      "parsedAt": "2026-03-19T13:22:39.453Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Black",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "Without Inspection",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Был ремонт",
+      "modelTranslated": "Pajero Mini 660 Active Field Edition 4DualD Full-Seg TV Thousandeyless Power Folding Mirrors",
+      "shopNameTranslated": "ＣＡＲ　ＢＡＮＫ　ＲＩＧＨＴ　春日部フィールドStore",
+      "shopLocationTranslated": "Saitama 春日部市"
     },
     {
       "id": "AU6838207862",
@@ -1248,7 +1563,16 @@
       "shopLocation": "埼玉県 さいたま市緑区",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6838207862/index.html",
       "page": "page_2_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.453Z"
+      "parsedAt": "2026-03-19T13:22:39.453Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Silver Metallic",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "With Inspection",
+      "warrantyTranslated": "Without Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 Limited エディション VR 4DualD Navigation/Bカメラ/Bluetooth/CD",
+      "shopNameTranslated": "Auto・アシスト／Ａｕｔｏ　Ａｓｓｉｓｔ",
+      "shopLocationTranslated": "Saitama さいたま市緑区"
     },
     {
       "id": "AU6374331218",
@@ -1280,7 +1604,16 @@
       "shopLocation": "埼玉県 羽生市",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6374331218/index.html",
       "page": "page_2_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.454Z"
+      "parsedAt": "2026-03-19T13:22:39.454Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Silver",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "With Inspection",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Был ремонт",
+      "modelTranslated": "Pajero Mini 660 VR スペシャルカラーエディション 4DualD",
+      "shopNameTranslated": "AutoＰＡＸ　川野辺自動車販売（株）　羽生１２２号バイパス店 ＪＵ適正販売店",
+      "shopLocationTranslated": "Saitama 羽生市"
     },
     {
       "id": "AU6429904159",
@@ -1316,7 +1649,16 @@
       "shopLocation": "群馬県 高崎市",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6429904159/index.html",
       "page": "page_2_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.456Z"
+      "parsedAt": "2026-03-19T13:22:39.456Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Pearl White",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "Without Inspection",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 VR 4DualD Thousandeyless 純正15-inch Aluminum Dualheels",
+      "shopNameTranslated": "ＣＡＲ　ＢＡＮＫ　ＲＩＧＨＴ　高崎フィールドStore",
+      "shopLocationTranslated": "Gunma 高崎市"
     },
     {
       "id": "AU6857789519",
@@ -1348,7 +1690,16 @@
       "shopLocation": "新潟県 新潟市南区",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6857789519/index.html",
       "page": "page_2_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.456Z"
+      "parsedAt": "2026-03-19T13:22:39.456Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Silver",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "With Inspection",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 アニバーサリー Limited VR 4DualD 4DualD Turbo Aftermarket Audio ETC Leather Dualrapped Steering Dualheel Thousandeyless Roof Rails Rear-mounted Spare Tire OEM Aluminum Dualheels Timing Belt Replaced 群馬仕入",
+      "shopNameTranslated": "買取マウス白根Store",
+      "shopLocationTranslated": "Niigata 新潟市南区"
     },
     {
       "id": "AU6806970953",
@@ -1384,7 +1735,16 @@
       "shopLocation": "大阪府 柏原市",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6806970953/index.html",
       "page": "page_2_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.457Z"
+      "parsedAt": "2026-03-19T13:22:39.457Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Pearl",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "With Inspection",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Был ремонт",
+      "modelTranslated": "Pajero Mini 660 XR Manual Included/Spare Thousandey Included/Thousandeyless/Power Folding Mirrors/OEM Aluminum Dualheels15-inch/運転席・助手席Airbag/Halogen Lights",
+      "shopNameTranslated": "Ｃ－ＳＰＡＣＥ．",
+      "shopLocationTranslated": "Osaka 柏原市"
     },
     {
       "id": "AU6627639602",
@@ -1416,7 +1776,16 @@
       "shopLocation": "新潟県 新潟市南区",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6627639602/index.html",
       "page": "page_2_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.458Z"
+      "parsedAt": "2026-03-19T13:22:39.458Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Blue",
+      "transmissionTranslated": "フロア5Manual",
+      "inspectionTranslated": "With Inspection",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 X 4DualD 5-speed Manual 4DualD OEM Audio Fog Lights Rear-mounted Spare Tire Aftermarket Aluminum Dualheels 群馬仕入",
+      "shopNameTranslated": "買取マウス白根Store",
+      "shopLocationTranslated": "Niigata 新潟市南区"
     },
     {
       "id": "AU6844134494",
@@ -1452,7 +1821,16 @@
       "shopLocation": "神奈川県 相模原市中央区",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6844134494/index.html",
       "page": "page_2_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.463Z"
+      "parsedAt": "2026-03-19T13:22:39.463Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Black",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "With Inspection",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 XR In-house　Loan　Authorized Dealer　全国Supported　In-house審査　Same-day Response",
+      "shopNameTranslated": "自社ローン取扱　Carトルズ 相模原店",
+      "shopLocationTranslated": "Kanagawa 相模原市中央区"
     },
     {
       "id": "AU6879493605",
@@ -1484,7 +1862,16 @@
       "shopLocation": "大分県 大分市",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6879493605/index.html",
       "page": "page_2_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.463Z"
+      "parsedAt": "2026-03-19T13:22:39.463Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "White",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "With Inspection",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 VR 4DualD Thousandeyless　CD Player Air Conditioner Power Steering Power Dualindows Airbag",
+      "shopNameTranslated": "テン・ポイント",
+      "shopLocationTranslated": "Oita 大分市"
     },
     {
       "id": "AU6877419079",
@@ -1520,7 +1907,16 @@
       "shopLocation": "長野県 松本市",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6877419079/index.html",
       "page": "page_2_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.465Z"
+      "parsedAt": "2026-03-19T13:22:39.465Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Light Silver Metallic",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "With Inspection",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 VR 4DualD CD Audio　フロントFog Lights　リモコンキー　Power Folding Mirrors　Privacy Glass",
+      "shopNameTranslated": "Nextage 松本店",
+      "shopLocationTranslated": "Nagano 松本市"
     },
     {
       "id": "AU6784688245",
@@ -1552,7 +1948,16 @@
       "shopLocation": "愛知県 名古屋市港区",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6784688245/index.html",
       "page": "page_2_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.465Z"
+      "parsedAt": "2026-03-19T13:22:39.465Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Silver",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "Without Inspection",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 VR 4DualD Turbo　Aluminum Dualheels　メッキRear-mounted Spare Tire Hard Case　Fog Lights　Mud Guards　Privacy Glass　Door Visors　フロアマット　ETC　Thousandeyless　Dual Airbags",
+      "shopNameTranslated": "ユーCarネット東海",
+      "shopLocationTranslated": "Aichi 名古屋市港区"
     },
     {
       "id": "AU6777357214",
@@ -1584,7 +1989,16 @@
       "shopLocation": "熊本県 上益城郡",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6777357214/index.html",
       "page": "page_2_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.466Z"
+      "parsedAt": "2026-03-19T13:22:39.466Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Black",
+      "transmissionTranslated": "フロア5Manual",
+      "inspectionTranslated": "2027年10月",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Был ремонт",
+      "modelTranslated": "Pajero Mini 660 VR 4DualD 4DualD・Turbo・純正15-inch Aluminum Dualheelsホイール・5-speed Manual・社外CD Audio・Thousandeyless・電動格納式ミラー",
+      "shopNameTranslated": "ＧＣ益城　Autoメッセ",
+      "shopLocationTranslated": "Kumamoto 上益城郡"
     },
     {
       "id": "AU6606862559",
@@ -1620,7 +2034,16 @@
       "shopLocation": "宮城県 仙台市泉区",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6606862559/index.html",
       "page": "page_2_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.467Z"
+      "parsedAt": "2026-03-19T13:22:39.467Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Silver",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "With Inspection",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 Active Field Edition 4DualD ETC　OEM Aluminum Dualheels　ABS　Thousandeyless　Dual Airbags　Dual Airbags　Air Conditioner　Power Steering",
+      "shopNameTranslated": "（株）軽自動車館 せんだいStore",
+      "shopLocationTranslated": "Miyagi 仙台市泉区"
     },
     {
       "id": "AU6865945159",
@@ -1656,7 +2079,16 @@
       "shopLocation": "新潟県 新潟市西区",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6865945159/index.html",
       "page": "page_2_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.469Z"
+      "parsedAt": "2026-03-19T13:22:39.469Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Black",
+      "transmissionTranslated": "フロア5Manual",
+      "inspectionTranslated": "2027年03月",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 VR 4DualD 最終型　4DualD　Timing Belt Replaced　ManualTurbo　レカロシート　Used Studless Tires Included　Navigation　Full-Seg　Back Camera　2.0ETC　Bluetooth　Thousandeyless　Dash Cam　純正シフトノブ有",
+      "shopNameTranslated": "Autoコレクション 本店",
+      "shopLocationTranslated": "Niigata 新潟市西区"
     },
     {
       "id": "AU6881197752",
@@ -1692,7 +2124,16 @@
       "shopLocation": "岐阜県 関市",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6881197752/index.html",
       "page": "page_2_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.470Z"
+      "parsedAt": "2026-03-19T13:22:39.470Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Silver",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "2027年07月",
+      "warrantyTranslated": "Without Warranty",
+      "repairHistoryTranslated": "Был ремонт",
+      "modelTranslated": "Pajero Mini 660 XR 4DualD Turbo Part-time 4DualD Navigation  Fog Lights 15-inch Aluminum Dualheels Rear-mounted Spare Tireハードカバー",
+      "shopNameTranslated": "（株）アイルー 関Store",
+      "shopLocationTranslated": "Gifu 関市"
     },
     {
       "id": "AU6767384599",
@@ -1728,7 +2169,16 @@
       "shopLocation": "千葉県 千葉市中央区",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6767384599/index.html",
       "page": "page_2_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.471Z"
+      "parsedAt": "2026-03-19T13:22:39.471Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Silver Metallic",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "With Inspection",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 XR 4 New Tires Included",
+      "shopNameTranslated": "バックサイド",
+      "shopLocationTranslated": "Chiba 千葉市中央区"
     },
     {
       "id": "AU6869321516",
@@ -1764,7 +2214,16 @@
       "shopLocation": "愛知県 一宮市",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6869321516/index.html",
       "page": "page_2_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.472Z"
+      "parsedAt": "2026-03-19T13:22:39.472Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Black Metallic",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "2026年07月",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 Limited No Repair History",
+      "shopNameTranslated": "ガリバー 名岐バイパス一宮Store",
+      "shopLocationTranslated": "Aichi 一宮市"
     },
     {
       "id": "AU6687321230",
@@ -1800,7 +2259,16 @@
       "shopLocation": "神奈川県 伊勢原市",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6687321230/index.html",
       "page": "page_2_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.473Z"
+      "parsedAt": "2026-03-19T13:22:39.473Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Black",
+      "transmissionTranslated": "フロア5Manual",
+      "inspectionTranslated": "With Inspection",
+      "warrantyTranslated": "Without Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 VR 4DualD 5速Manual 4DualD切替式 純正15-inchAluminum Dualheels ETC",
+      "shopNameTranslated": "マシーン Main Store",
+      "shopLocationTranslated": "Kanagawa 伊勢原市"
     },
     {
       "id": "AU6468841913",
@@ -1832,7 +2300,16 @@
       "shopLocation": "愛知県 春日井市",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6468841913/index.html",
       "page": "page_2_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.474Z"
+      "parsedAt": "2026-03-19T13:22:39.474Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Blue Pearl",
+      "transmissionTranslated": "フロア3Automatic",
+      "inspectionTranslated": "2027年06月",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 Skipper J 新品ジオランダーX-Automaticタイヤ/ホワイト塗装Aluminum Dualheels/平面タイヤ/Chrome Side Mirrors/Fバンパースムージング加工/Fog Lights/Chrome Billete Grille/リアルーフスポイラー/Door Visors",
+      "shopNameTranslated": "ＰＵＧＺ",
+      "shopLocationTranslated": "Aichi 春日井市"
     },
     {
       "id": "AU6270790623",
@@ -1868,7 +2345,16 @@
       "shopLocation": "北海道 釧路市",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6270790623/index.html",
       "page": "page_2_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.475Z"
+      "parsedAt": "2026-03-19T13:22:39.475Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Black",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "With Inspection",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 VR-S 4DualD Turbo　Aftermarket Navigation　CD・DVD再生　Thousandeyless　OEM Aluminum Dualheels　ABS　Dual Airbags　フル装備",
+      "shopNameTranslated": "（株）軽自動車館 釧路Store",
+      "shopLocationTranslated": "Hokkaido 釧路市"
     },
     {
       "id": "AU6791759647",
@@ -1904,7 +2390,16 @@
       "shopLocation": "岡山県 岡山市南区",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6791759647/index.html",
       "page": "page_2_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.476Z"
+      "parsedAt": "2026-03-19T13:22:39.476Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Red Pearl",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "With Inspection",
+      "warrantyTranslated": "Without Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 XR Aftermarket CD Stereo　Thousandeyless Entry　ETC　OEM Aluminum Dualheels　Rear-mounted Spare Tire",
+      "shopNameTranslated": "（株）AutoガレージＫ",
+      "shopLocationTranslated": "Okayama 岡山市南区"
     },
     {
       "id": "AU6722701197",
@@ -1940,7 +2435,16 @@
       "shopLocation": "北海道 札幌市西区",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6722701197/index.html",
       "page": "page_2_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.477Z"
+      "parsedAt": "2026-03-19T13:22:39.477Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Black Pearl",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "With Inspection",
+      "warrantyTranslated": "Without Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 Premium Selection 4DualD User Purchased Direct Sale・Strada Navigation・Full-Segテレビ・Back Camera・ETC・Seat Heater・Part-time 4DualD・Anti-theft System・Crash Safety Body・Thousandeyless Entry・Cold Region Spec・Airbagシステム",
+      "shopNameTranslated": "（株）サンワイズ 札幌Main Store",
+      "shopLocationTranslated": "Hokkaido 札幌市西区"
     },
     {
       "id": "AU6801487942",
@@ -1976,7 +2480,16 @@
       "shopLocation": "千葉県 柏市",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6801487942/index.html",
       "page": "page_2_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.478Z"
+      "parsedAt": "2026-03-19T13:22:39.478Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Light Brown",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "2027年04月",
+      "warrantyTranslated": "Without Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 XR Aftermarket Navigation　社外One-Segテレビ　純正15-inch Aluminum Dualheelsホイール　ManualAir Conditioner　Thousandeyless　Power Dualindows　パワーステアリング",
+      "shopNameTranslated": "Ｔａｕｒｏｓ　Ｊａｐａｎ",
+      "shopLocationTranslated": "Chiba 柏市"
     },
     {
       "id": "AU6823745339",
@@ -2012,7 +2525,16 @@
       "shopLocation": "北海道 旭川市",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6823745339/index.html",
       "page": "page_2_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.479Z"
+      "parsedAt": "2026-03-19T13:22:39.479Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Black Metallic",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "2026年12月",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 Active Field Edition 4DualD Switchable 4DualD/Non-Smoking Vehicle/OEM Navigation/One-Seg/SD/CD/DVD/運転席Seat Heater/Leather Dualrapped Steering Dualheel/Power Dualindows/Engine Starter/スペアキー/Fog Lights/OEM Aluminum Dualheels夏タイヤ積込/Door Visors/純正フロアマット/取説",
+      "shopNameTranslated": "ガリバー 旭川永山Store",
+      "shopLocationTranslated": "Hokkaido 旭川市"
     },
     {
       "id": "AU6857642278",
@@ -2048,7 +2570,16 @@
       "shopLocation": "愛知県 名古屋市港区",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6857642278/index.html",
       "page": "page_2_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.480Z"
+      "parsedAt": "2026-03-19T13:22:39.480Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Silver Navy Silver",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "2027年07月",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 Exceed 4DualD Turbo　Roof Rails　Fog Lights　Rear-mounted Spare Tire Hard Case　Mud Guards　Strada HDD Navigation　Full-Seg TV　CD　DVD再生可　前後Dash Cam　ETC",
+      "shopNameTranslated": "ユーCarネット東海",
+      "shopLocationTranslated": "Aichi 名古屋市港区"
     },
     {
       "id": "AU6830045671",
@@ -2080,7 +2611,16 @@
       "shopLocation": "愛知県 名古屋市港区",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6830045671/index.html",
       "page": "page_2_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.481Z"
+      "parsedAt": "2026-03-19T13:22:39.481Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Silver Navy Silver",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "2028年02月",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 Premium Selection ファイナル アニバーサリー 4DualD 特別仕様車　4DualDTurbo　Brown LeatherSuede StyleFabric Combination Seats　Seat Heater　Chrome Grille　LED Headlights　シルバーRoof Rails　Pioneer Cyber HDD Navigation　Full-Seg TV　Non-Smoking Vehicle",
+      "shopNameTranslated": "ユーCarネット東海",
+      "shopLocationTranslated": "Aichi 名古屋市港区"
     },
     {
       "id": "VU8953466228",
@@ -2112,7 +2652,16 @@
       "shopLocation": "愛知県 名古屋市港区",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/VU8953466228/index.html",
       "page": "page_3_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.520Z"
+      "parsedAt": "2026-03-19T13:22:39.520Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Pearl White",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "2027年05月",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 Premium Selection 4DualD 車検令和9Year5Month　特別仕様車　4DualDTurbo　Aluminum Dualheels　Fog Lights　Mud Guards　Chrome Door Mirrors　Privacy Glass　本革シート&スエードファブリック　CD　Thousandeyless　フロアマット",
+      "shopNameTranslated": "ユーCarネット東海",
+      "shopLocationTranslated": "Aichi 名古屋市港区"
     },
     {
       "id": "AU6499736124",
@@ -2144,7 +2693,16 @@
       "shopLocation": "愛知県 名古屋市港区",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6499736124/index.html",
       "page": "page_3_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.521Z"
+      "parsedAt": "2026-03-19T13:22:39.521Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Silver Red Purple",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "2027年10月",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 Exceed 4DualD 車検令和9Year10Month　Turbo　Aluminum Dualheels　Roof Rails　Fog Lights　Rear-mounted Spare Tire Hard Case　Mud Guards　Privacy Glass　Door Visors　フロアマット　ポータブルNavigation TV　Leather Dualrapped Steering Dualheel　CD　ETC",
+      "shopNameTranslated": "ユーCarネット東海",
+      "shopLocationTranslated": "Aichi 名古屋市港区"
     },
     {
       "id": "VU7071862326",
@@ -2176,7 +2734,16 @@
       "shopLocation": "愛知県 名古屋市港区",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/VU7071862326/index.html",
       "page": "page_3_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.522Z"
+      "parsedAt": "2026-03-19T13:22:39.522Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Pearl White",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "2027年11月",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Был ремонт",
+      "modelTranslated": "Pajero Mini 660 VR 4DualD Turbo　One Owner　HDD Navigation　TV　CD　DVD再生可　ETC　Thousandeyless",
+      "shopNameTranslated": "ユーCarネット東海",
+      "shopLocationTranslated": "Aichi 名古屋市港区"
     },
     {
       "id": "AU5861050223",
@@ -2208,7 +2775,16 @@
       "shopLocation": "愛知県 名古屋市港区",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU5861050223/index.html",
       "page": "page_3_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.523Z"
+      "parsedAt": "2026-03-19T13:22:39.523Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Silver Navy",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "2027年06月",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 VR 4DualD 車検令和9Year6Month　4DualDTurbo　Aluminum Dualheels　Privacy Glass　外Navigation　TV　ETC　Thousandeyless　Dual Airbags　ABS",
+      "shopNameTranslated": "ユーCarネット東海",
+      "shopLocationTranslated": "Aichi 名古屋市港区"
     },
     {
       "id": "AU6836710086",
@@ -2244,7 +2820,16 @@
       "shopLocation": "神奈川県 横浜市旭区",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6836710086/index.html",
       "page": "page_3_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.524Z"
+      "parsedAt": "2026-03-19T13:22:39.524Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Green Black",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "With Inspection",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 VR 4DualD Turbo ブレラOGカスタム New Mud Terrain Tires&マットブラック塗装済Aluminum Dualheels 新品ルーフラック&新品ベースキャリア MITSUBISHIエンブレム テールランプブラックアウト Seat Heater Power Folding Mirrors Thousandeyless",
+      "shopNameTranslated": "ＢＲＥＲＡ",
+      "shopLocationTranslated": "Kanagawa 横浜市旭区"
     },
     {
       "id": "AU6878012233",
@@ -2280,7 +2865,16 @@
       "shopLocation": "神奈川県 横浜市旭区",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6878012233/index.html",
       "page": "page_3_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.525Z"
+      "parsedAt": "2026-03-19T13:22:39.525Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Blue Black",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "With Inspection",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 VR 4DualD Turbo　BRERAオリジナルカスタム　New Mud Terrain Tires&マットブラック塗装済Aluminum Dualheels　Rear-mounted Spare Tire付　新品ルーフラック&新品ベースキャリア　MITSUBISHIエンブレム　マットブラック塗分",
+      "shopNameTranslated": "ＢＲＥＲＡ",
+      "shopLocationTranslated": "Kanagawa 横浜市旭区"
     },
     {
       "id": "AU6889382481",
@@ -2316,7 +2910,16 @@
       "shopLocation": "神奈川県 横浜市旭区",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6889382481/index.html",
       "page": "page_3_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.526Z"
+      "parsedAt": "2026-03-19T13:22:39.526Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Gray Black",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "With Inspection",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 VR 4DualD Turbo ブレラOGカスタム New Mud Terrain Tires&マットブラック塗装済Aluminum Dualheels 新品ルーフラック&新品ベースキャリア　MITSUBISHIボンネットエンブレム テールランプブラックアウト マットブラック塗分",
+      "shopNameTranslated": "ＢＲＥＲＡ",
+      "shopLocationTranslated": "Kanagawa 横浜市旭区"
     },
     {
       "id": "AU6854614943",
@@ -2352,7 +2955,16 @@
       "shopLocation": "兵庫県 神戸市垂水区",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6854614943/index.html",
       "page": "page_3_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.527Z"
+      "parsedAt": "2026-03-19T13:22:39.527Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Silver Black Silver",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "2027年12月",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 Exceed 4DualD Front Skid Plate Underbar　Chrome Grille　Turn Signal Chrome Mirror Covers　Fog Lights　Roof Rails　Thousandeyless Thousandey",
+      "shopNameTranslated": "兵庫三菱自動車販売（株） ＵＣＡＲジェームス山",
+      "shopLocationTranslated": "Hyogo 神戸市垂水区"
     },
     {
       "id": "AU6565466374",
@@ -2384,7 +2996,16 @@
       "shopLocation": "大阪府 大阪市旭区",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6565466374/index.html",
       "page": "page_3_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.528Z"
+      "parsedAt": "2026-03-19T13:22:39.528Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Navy Silver",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "With Inspection",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 Exceed 4DualD One Owner Vehicle　4DualD　Seat Heater　Power Folding Mirrors　OEM Aluminum Dualheels　Thousandeyless",
+      "shopNameTranslated": "（有）ジャガーAutoサービス",
+      "shopLocationTranslated": "Osaka 大阪市旭区"
     },
     {
       "id": "AU6758336839",
@@ -2420,7 +3041,16 @@
       "shopLocation": "神奈川県 横浜市旭区",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6758336839/index.html",
       "page": "page_3_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.529Z"
+      "parsedAt": "2026-03-19T13:22:39.529Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Green Black",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "With Inspection",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 Active Field Edition 4DualD Turbo　ブレラOGカスタム　New Mud Terrain Tires&マットブラック塗装済Aluminum Dualheels　新品ルーフラック&新品ベースキャリア　テールランプブラックアウト　マットブラック塗分　Rear-mounted Spare Tire",
+      "shopNameTranslated": "ＢＲＥＲＡ",
+      "shopLocationTranslated": "Kanagawa 横浜市旭区"
     },
     {
       "id": "AU6538161102",
@@ -2452,7 +3082,16 @@
       "shopLocation": "山形県 米沢市",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6538161102/index.html",
       "page": "page_3_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.532Z"
+      "parsedAt": "2026-03-19T13:22:39.532Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "GrayII",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "With Inspection",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 VR スペシャルカラーエディション 4DualD OEM Audio　運転席Seat Heater　Dash Cam　4DualD　Aftermarket Aluminum Dualheels　Roof Rails　車検整備2Year付き",
+      "shopNameTranslated": "（有）ワン・プライス",
+      "shopLocationTranslated": "Yamagata 米沢市"
     },
     {
       "id": "AU6854778446",
@@ -2488,7 +3127,16 @@
       "shopLocation": "神奈川県 横浜市旭区",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6854778446/index.html",
       "page": "page_3_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.533Z"
+      "parsedAt": "2026-03-19T13:22:39.533Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "White Black",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "With Inspection",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 VR 4DualD Turbo ブレラOGカスタム New Mud Terrain Tires&マットブラック塗装済Aluminum Dualheels 新品ルーフラック&新品ベースキャリア MITSUBISHIエンブレム テールランプブラックアウト マットブラック塗分",
+      "shopNameTranslated": "ＢＲＥＲＡ",
+      "shopLocationTranslated": "Kanagawa 横浜市旭区"
     },
     {
       "id": "AU6615890479",
@@ -2520,7 +3168,16 @@
       "shopLocation": "新潟県 新潟市南区",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6615890479/index.html",
       "page": "page_3_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.534Z"
+      "parsedAt": "2026-03-19T13:22:39.534Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Blue",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "2026年10月",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Был ремонт",
+      "modelTranslated": "Pajero Mini 660 VR 4DualD 5-speed Manual 4DualD Aftermarket Audio ETC Power Folding Mirrors Thousandeyless Fog Lights Rear-mounted Spare Tire OEM Aluminum Dualheels 群馬仕入",
+      "shopNameTranslated": "買取マウス白根Store",
+      "shopLocationTranslated": "Niigata 新潟市南区"
     },
     {
       "id": "AU6818703630",
@@ -2556,7 +3213,16 @@
       "shopLocation": "神奈川県 横浜市旭区",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6818703630/index.html",
       "page": "page_3_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.535Z"
+      "parsedAt": "2026-03-19T13:22:39.535Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Black",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "With Inspection",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 Lynx Z ブレラOGカスタム New Mud Terrain Tires&マットブラック塗装済Aluminum Dualheels 新品ルーフラック&新品ベースキャリア テールランプブラックアウト マットブラック塗分 ETC HUD Light Thousandeyless",
+      "shopNameTranslated": "ＢＲＥＲＡ",
+      "shopLocationTranslated": "Kanagawa 横浜市旭区"
     },
     {
       "id": "AU6778108809",
@@ -2592,7 +3258,16 @@
       "shopLocation": "神奈川県 横浜市旭区",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6778108809/index.html",
       "page": "page_3_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.537Z"
+      "parsedAt": "2026-03-19T13:22:39.537Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Brown Black",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "With Inspection",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 VR 4DualD Turbo　BRERAオリジナルカスタム　New Mud Terrain Tires　マットブラック塗装済Aluminum Dualheels　新品ルーフラック&新品ベースキャリア　テールランプブラックアウト　マットブラック塗分　Rear-mounted Spare Tireカバー",
+      "shopNameTranslated": "ＢＲＥＲＡ",
+      "shopLocationTranslated": "Kanagawa 横浜市旭区"
     },
     {
       "id": "AU6782320996",
@@ -2624,7 +3299,16 @@
       "shopLocation": "神奈川県 横須賀市",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6782320996/index.html",
       "page": "page_3_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.538Z"
+      "parsedAt": "2026-03-19T13:22:39.538Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Gray Black",
+      "transmissionTranslated": "フロア3Automatic",
+      "inspectionTranslated": "2028年01月",
+      "warrantyTranslated": "Without Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 Skipper J Full Paint　Lift Up　Aftermarket Audio　ETC",
+      "shopNameTranslated": "ＦＳＢ　ＡＵＴＯ",
+      "shopLocationTranslated": "Kanagawa 横須賀市"
     },
     {
       "id": "AU6836570442",
@@ -2660,7 +3344,16 @@
       "shopLocation": "神奈川県 横浜市旭区",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6836570442/index.html",
       "page": "page_3_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.539Z"
+      "parsedAt": "2026-03-19T13:22:39.539Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Light Brown Black",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "With Inspection",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 Active Field Edition 4DualD Turbo ブレラOGカスタム New Mud Terrain Tires&マットブラック塗装済Aluminum Dualheels 新品ルーフラック&新品ベースキャリア MITSUBISHIエンブレム テールランプブラックアウト マットブラック塗分 社外Navigation TV ETC",
+      "shopNameTranslated": "ＢＲＥＲＡ",
+      "shopLocationTranslated": "Kanagawa 横浜市旭区"
     },
     {
       "id": "AU6752927941",
@@ -2692,7 +3385,16 @@
       "shopLocation": "鳥取県 西伯郡",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6752927941/index.html",
       "page": "page_3_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.539Z"
+      "parsedAt": "2026-03-19T13:22:39.539Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Silver",
+      "transmissionTranslated": "フロア5Manual",
+      "inspectionTranslated": "2026年06月",
+      "warrantyTranslated": "Without Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 VR 4DualD Turbo　5速Manual　Power Folding Mirrors　Light Levelizer",
+      "shopNameTranslated": "ｈｏｐ",
+      "shopLocationTranslated": "Tottori 西伯郡"
     },
     {
       "id": "AU6655337606",
@@ -2724,7 +3426,16 @@
       "shopLocation": "石川県 金沢市",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6655337606/index.html",
       "page": "page_3_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.541Z"
+      "parsedAt": "2026-03-19T13:22:39.541Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Silver Navy Silver",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "2027年04月",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 Exceed 4DualD CD ETC　Roof Rails　バイザー",
+      "shopNameTranslated": "石川中央三菱自動車販売（株）ＵＣＡＲ　金沢北",
+      "shopLocationTranslated": "Ishikawa 金沢市"
     },
     {
       "id": "AU6811579576",
@@ -2756,7 +3467,16 @@
       "shopLocation": "埼玉県 春日部市",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6811579576/index.html",
       "page": "page_3_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.542Z"
+      "parsedAt": "2026-03-19T13:22:39.542Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Silver Black Silver",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "2026年08月",
+      "warrantyTranslated": "Without Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 VR 4DualD Memory Navigation　地デジテレビ　Bluetooth　CD　DVD　4DualD　Turboエンジン　Fog Lights　Thousandeyless　OEM Aluminum Dualheels　Door Visors　Power Folding Mirrors　ABS　Airbag",
+      "shopNameTranslated": "ＣＡＲＩＮＤ　Carインド",
+      "shopLocationTranslated": "Saitama 春日部市"
     },
     {
       "id": "AU6857632735",
@@ -2792,7 +3512,16 @@
       "shopLocation": "広島県 広島市西区",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6857632735/index.html",
       "page": "page_3_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.543Z"
+      "parsedAt": "2026-03-19T13:22:39.543Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Navy Silver",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "2026年06月",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 Exceed 4DualD Navigation　Full-Seg　Bカメラ　Dash Cam　ETC",
+      "shopNameTranslated": "広島三菱自動車販売 クリーンCar観音",
+      "shopLocationTranslated": "Hiroshima 広島市西区"
     },
     {
       "id": "AU6088964902",
@@ -2828,7 +3557,16 @@
       "shopLocation": "京都府 京都市左京区",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6088964902/index.html",
       "page": "page_3_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.544Z"
+      "parsedAt": "2026-03-19T13:22:39.544Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Silver",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "With Inspection",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 Active Field Edition 4DualD Thousandenwood Navigation System　Dash Cam　Full-Seg TV　ETC　切替4DualD　OEM Aluminum Dualheels　パワーステアリング　Thousandeyless　Air Conditioner　Power Dualindows　取扱説明書　Service Records",
+      "shopNameTranslated": "京都自動車",
+      "shopLocationTranslated": "Kyoto 京都市左京区"
     },
     {
       "id": "AU6870802430",
@@ -2864,7 +3602,16 @@
       "shopLocation": "兵庫県 神戸市垂水区",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6870802430/index.html",
       "page": "page_3_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.545Z"
+      "parsedAt": "2026-03-19T13:22:39.545Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Silver Metallic",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "2027年08月",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 VR 4DualD Eclipse Memory Navigation　Back Camera　リヤスポイラー　Roof Rails　Thousandeyless Thousandey　ETC　スタッドレスタイヤ",
+      "shopNameTranslated": "兵庫三菱自動車販売（株） ＵＣＡＲジェームス山",
+      "shopLocationTranslated": "Hyogo 神戸市垂水区"
     },
     {
       "id": "AU6867128892",
@@ -2900,7 +3647,16 @@
       "shopLocation": "岐阜県 羽島郡",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6867128892/index.html",
       "page": "page_3_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.547Z"
+      "parsedAt": "2026-03-19T13:22:39.547Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Pearl",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "2026年09月",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 VR 4DualD",
+      "shopNameTranslated": "ＣＩＲＣＬＥCorporation",
+      "shopLocationTranslated": "Gifu 羽島郡"
     },
     {
       "id": "AU6408460673",
@@ -2932,7 +3688,16 @@
       "shopLocation": "群馬県 高崎市",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6408460673/index.html",
       "page": "page_3_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.548Z"
+      "parsedAt": "2026-03-19T13:22:39.548Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Red Brown Silver",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "With Inspection",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 Premium Selection 4DualD Smoking Vehicle　No Audio",
+      "shopNameTranslated": "群馬三菱自動車販売（株） クリーンCar中央",
+      "shopLocationTranslated": "Gunma 高崎市"
     },
     {
       "id": "AU6869481401",
@@ -2964,7 +3729,16 @@
       "shopLocation": "福井県 福井市",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6869481401/index.html",
       "page": "page_3_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.549Z"
+      "parsedAt": "2026-03-19T13:22:39.549Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Silver",
+      "transmissionTranslated": "フロア5Manual",
+      "inspectionTranslated": "2026年12月",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 ZR 4DualD Navigation TV　Thousandeyless Entry　ETC",
+      "shopNameTranslated": "クロカワ自動車Corporation 大宮店",
+      "shopLocationTranslated": "Fukui 福井市"
     },
     {
       "id": "AU6670311118",
@@ -2996,7 +3770,16 @@
       "shopLocation": "福井県 福井市",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6670311118/index.html",
       "page": "page_3_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.550Z"
+      "parsedAt": "2026-03-19T13:22:39.550Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Silver",
+      "transmissionTranslated": "フロア5Manual",
+      "inspectionTranslated": "2026年05月",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 VR 4DualD 5-speed Manual　Thousandeyless Entry　Roof Carrier",
+      "shopNameTranslated": "クロカワ自動車Corporation 大宮店",
+      "shopLocationTranslated": "Fukui 福井市"
     },
     {
       "id": "AU6869482030",
@@ -3032,7 +3815,16 @@
       "shopLocation": "北海道 石狩市",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6869482030/index.html",
       "page": "page_3_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.551Z"
+      "parsedAt": "2026-03-19T13:22:39.551Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Black",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "With Inspection",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Был ремонт",
+      "modelTranslated": "Pajero Mini 660 VR 4DualD Turbo・4.3Ten Thousandキロ・Thousandeyless",
+      "shopNameTranslated": "ＡＵＴＯ　ＣＲＥＳＴ／Autoクレスト",
+      "shopLocationTranslated": "Hokkaido 石狩市"
     },
     {
       "id": "AU6553152461",
@@ -3064,7 +3856,16 @@
       "shopLocation": "兵庫県 西宮市",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6553152461/index.html",
       "page": "page_3_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.552Z"
+      "parsedAt": "2026-03-19T13:22:39.552Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Silver",
+      "transmissionTranslated": "フロア4Automatic",
+      "inspectionTranslated": "With Inspection",
+      "warrantyTranslated": "With Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 XR Aluminum Dualheels　Power Folding Mirrors　Thousandeyless Entry　Carrozzeria Stereo",
+      "shopNameTranslated": "Autoクリスタル",
+      "shopLocationTranslated": "Hyogo 西宮市"
     },
     {
       "id": "AU6877256654",
@@ -3096,7 +3897,16 @@
       "shopLocation": "愛知県 名古屋市瑞穂区",
       "detailUrl": "https://www.carsensor.net/usedcar/detail/AU6877256654/index.html",
       "page": "page_3_partial.html",
-      "parsedAt": "2026-03-19T13:22:39.554Z"
+      "parsedAt": "2026-03-19T13:22:39.554Z",
+      "makeTranslated": "Mitsubishi",
+      "colorTranslated": "Black Gray",
+      "transmissionTranslated": "フロア3Automatic",
+      "inspectionTranslated": "2028年03月",
+      "warrantyTranslated": "Without Warranty",
+      "repairHistoryTranslated": "Без ремонта",
+      "modelTranslated": "Pajero Mini 660 Iron Cross X 4DualD Inspection10Year3Month/Timing Belt Replaced/Aftermarket Steering Dualheel",
+      "shopNameTranslated": "Ｒ（アール）堀田Store",
+      "shopLocationTranslated": "Aichi 名古屋市瑞穂区"
     }
   ]
 }

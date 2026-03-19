@@ -3,23 +3,26 @@ import { DownloaderService } from './services/downloader.service';
 import { ParserService } from './services/parser.service';
 import { StorageService } from './services/storage.service';
 import { CleanerService } from './services/cleaner.service';
+import { TranslatorService } from './services/translator.service';
 
 class CarParserApp {
   private downloader: DownloaderService;
   private parser: ParserService;
   private storage: StorageService;
   private cleaner: CleanerService;
+  private translator: TranslatorService;
 
   constructor() {
     this.downloader = new DownloaderService();
     this.parser = new ParserService();
     this.storage = new StorageService();
     this.cleaner = new CleanerService();
+    this.translator = new TranslatorService();
   }
 
   async run() {
     try {
-      Logger.section('ЗАПУСК: Загрузка → Парсинг → Очистка');
+      Logger.section('ЗАПУСК: Загрузка → Парсинг → Очистка → Перевод');
       
       // Инициализация
       await this.downloader.initialize();
@@ -43,9 +46,14 @@ class CarParserApp {
         allCars.push(...cars);
       }
 
-      // Сохранение результатов
+      // ШАГ 3: Сохранение результатов
+      Logger.section('ШАГ 3: Сохранение данных');
       await this.storage.saveAllCars(allCars);
       await this.storage.saveStats(allCars);
+
+      // ШАГ 4: Перевод данных
+      Logger.section('ШАГ 4: Перевод данных');
+      await this.translator.saveTranslated(allCars);
 
       // Показываем статистику
       Logger.section('ИТОГИ');
@@ -61,16 +69,17 @@ class CarParserApp {
           console.log(`Год: ${car.year}`);
           console.log(`Цена: ${car.totalPrice.display}`);
           console.log(`Пробег: ${car.mileage.display}`);
-          console.log(`КПП: ${car.transmission || 'не указано'}`);
-          console.log(`Магазин: ${car.shopName || 'не указан'}`);
         });
       }
 
-      // ШАГ 3: Очистка
+      // ШАГ 5: Очистка
+      Logger.section('ШАГ 5: Очистка временных файлов');
       await this.cleaner.cleanup(downloadedFiles);
 
       Logger.section('ПРОЦЕСС ЗАВЕРШЕН');
-      Logger.info(`Результаты: ${this.storage['outputDir']}`);
+      Logger.info(`Результаты:`);
+      Logger.info(`  📁 Оригинал: ${this.storage['outputDir']}/all_cars.json`);
+      Logger.info(`  📁 Перевод: translated_data/cars_translated.json`);
       
     } catch (error) {
       Logger.error(`Критическая ошибка: ${error}`);
