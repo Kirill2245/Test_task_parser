@@ -1,0 +1,15 @@
+# Общее
+.env
+node_modules/
+dist/
+build/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Docker
+*.pid
+docker/postgres/data/  # Не коммитим данные БД
